@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Derrick Juma 🚀
 
-Welcome to my GitHub profile! I'm  passionate about ** Moblie App Development, AI and Data Scientist** 🧑‍💻 
+Welcome to my GitHub profile! I'm  passionate about ** Moblie App Development, AI and Data Science** 🧑‍💻 
 
 ### 🔍 About Me  
 - 📖 Currently learning **Dart, Flutter and Data Science** 
