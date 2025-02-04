@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm  passionate about ** Moblie App Development, AI and Data Science** 🧑‍💻 
 
 ### 🔍 About Me  
-- 📖 Currently learning **Dart, Flutter and Data Science** 
+- 📖 Currently learning **Dart, Flutter FrameWork and Data Science** 
 - 📊 **Data Science & Mobile App Development Enthusiast**
 - 🌱 Exploring **AI, Android app Development and Data Science**
 - 👯 Looking to collaborate on **Flutter mobile applications and Data Science Projects**      
