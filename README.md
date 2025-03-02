@@ -18,7 +18,7 @@ When I'm not coding, I'm probably **geeking out on AI trends, playing chess♟�
 
 ### 🤝 Let's Connect  
 - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) [https://www.linkedin.com/in/derrick-juma-840529311/]  
-- 🐦 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](#)  (https://x.com/Jude1110641)
+- 🐦 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](#)  [https://x.com/Jude1110641]
 
 
 ---
