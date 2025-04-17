@@ -62,10 +62,10 @@ When I'm not coding, I'm probably **geeking out on AI trends, playing chess♟�
 
 ## 🚀 Featured Projects
 
-- 🎯 [Unistay - Student Housing Recommendation App](https://github.com/house_recommendation_app)  
+- 🎯 [Unistay - Student Housing Recommendation App](https://github.com/Jude254-programmer/house_recommendation_app)  
   A Flutter + FastAPI project that recommends affordable off-campus housing using machine learning.  
 
-- 📊 [Rent Price Prediction amd recommendation Model](https://github.com/your-repo-link)  
+- 📊 [Rent Price Prediction amd recommendation Model](https://github.com/Jude254-programmer/housing_recommendation) 
   A data science project predicting housing rent using XGBoost & Random Forest.
 
 
