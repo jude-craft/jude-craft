@@ -26,7 +26,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 **Data Science & AI:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,6 +50,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ---
 
@@ -82,7 +84,7 @@ src="https://img.shields.io/github/followers/Jude254-programmer?logo=github&styl
 | 🏠 Unistay Housing App    | Flutter, FastAPI, ML | Student housing recommendation using AI | [Repo](https://github.com/Jude254-programmer/house_recommendation_app) |
 | 👩‍🎓 SmartPace    | Flutter, Firebase | Student study planner and collaboration app | [Repo](https://github.com/Jude254-programmer/SmartPace) |
 | 📊 Rent Prediction Model     | Python, XGBoost, Random Forest | ML model for housing rent prediction | [Repo](https://github.com/Jude254-programmer/housing_recommendation) |
-| 🔮 More Projects Coming     | Flutter, AI, Data Science | Stay tuned for more exciting projects! | Coming Soon 🚀 |
+| 🔮 More Projects Coming     | Flutter,Kotlin, AI, Data Science | Stay tuned for more exciting projects! | Coming Soon 🚀 |
 
 ---
 
