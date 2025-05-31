@@ -63,10 +63,19 @@
 
 ---
 
+
 ### 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jude254-programmer&theme=radical&no-bg=true&no-frame=true" />
 </p>
+
+---
+### 💻 **Turning green squares into snake food, one commit at a time**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jude254-programmer/Jude254-programmer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jude254-programmer/Jude254-programmer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -86,6 +95,7 @@ src="https://img.shields.io/github/followers/Jude254-programmer?logo=github&styl
 | 🔮 More Projects Coming     | Flutter,Kotlin, AI, Data Science | Stay tuned for more exciting projects! | Coming Soon 🚀 |
 
 ---
+
 
 ### ☕ Chill Dev Zone
 <div align="center">
