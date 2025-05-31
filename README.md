@@ -1,7 +1,7 @@
                                                
 <h1 align="center">Hey there! 👋 I'm Derrick Juma 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=19-Year-Old+Developer📱;AI+%26+Data+Science+Enthusiast🤖;Flutter+Developer+🦋;Machine+Learning+Explorer🔬;Coffee+Lover+☕+Chess+Player♟️;Building+Smart+Mobile+Solutions💡;Gen+Z+Developer+on+Fire🔥" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Gen Z+Developer📱;AI+%26+Data+Science+Enthusiast🤖;Flutter+Developer+🦋;Machine+Learning+Explorer🔬;Coffee+Lover+☕+Chess+Player♟️;Building+Smart+Mobile+Solutions💡;Gen+Z+Developer+on+Fire🔥" alt="Typing Animation"/>
 </p>
 <h3 align="center">Mobile Software Engineer | Flutter Developer | AI & Data Science Enthusiast</h3>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px" align="right">
