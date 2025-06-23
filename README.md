@@ -94,6 +94,7 @@ motto: "Building tomorrow's solutions, one commit at a time"
 |:---:|:---:|:---:|:---:|
 | **🏠 Unistay Housing** | Flutter • FastAPI • ML | AI-powered student housing recommendation system | [View](https://github.com/Jude254-programmer/house_recommendation_app) |
 | **📚 SmartPace** | Flutter • Firebase • AI | Intelligent student study planner with collaboration features | [View](https://github.com/Jude254-programmer/SmartPace) |
+| **👨‍💼 ShopMate** | Flutter • Firebase | App that helps shopkeepers keep sale records, track profits and get reports | [View](https://github.com/Jude254-programmer/ShopMate) |
 | **📊 Rent Predictor** | Python • XGBoost • ML | Advanced machine learning model for housing rent prediction | [View](https://github.com/Jude254-programmer/housing_recommendation) |
 | **🔮 Next Project** | Flutter • Kotlin • AI | Revolutionary mobile app coming soon... | `Coming Soon` |
 
