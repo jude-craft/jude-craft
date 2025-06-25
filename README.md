@@ -3,7 +3,7 @@
 # 🌟 **DERRICK JUMA** 🌟
 ### *Mobile Software Engineer • Data Science & AI Enthusiast • Gen Z Developer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%F0%9F%A6%8B;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Building+Smart+Mobile+Solutions+%F0%9F%92%A1;Gen+Z+Developer+on+Fire+%F0%9F%94%A5" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Building+Smart+Mobile+Solutions+%F0%9F%92%A1;Gen+Z+Developer+on+Fire+%F0%9F%94%A5" alt="Typing Animation"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right"/>
 
@@ -67,10 +67,11 @@ motto: "Building tomorrow's solutions, one commit at a time"
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jude254-programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude254-programmer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jude254-programmer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jude254-programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude254-programmer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com/?user=Jude254-programmer&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</div>
 
 </div>
 
