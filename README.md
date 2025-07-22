@@ -79,8 +79,9 @@ Status: All systems operational ✅
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jude254-programmer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Derrick's%20Code%20Statistics"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude254-programmer&layout=compact&theme=dark&hide_border=true"/>
+  <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jude254-programmer&theme=dark&hide_border=true"/>
-
+</div>
 **Commit Frequency:** `Every day is git commit day` 📈
 
 </div>
