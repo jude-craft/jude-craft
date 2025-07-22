@@ -77,9 +77,9 @@ Analyzing GitHub performance...
 Status: All systems operational ✅
 ```
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jude254-programmer&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Derrick's+Code+Statistics"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude254-programmer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jude254-programmer&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jude254-programmer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Derrick's%20Code%20Statistics"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude254-programmer&layout=compact&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jude254-programmer&theme=dark&hide_border=true"/>
 
 **Commit Frequency:** `Every day is git commit day` 📈
 
