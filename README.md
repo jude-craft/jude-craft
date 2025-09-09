@@ -15,7 +15,7 @@
 
 ```yaml
 name: "Derrick Juma"
-role: "Mobile Software Engineer"
+role: "Software Engineer"
 location: "Nairobi,Kenya 🇰🇪"
 current_focus: "Flutter Development & AI Integration"
 learning: ["Kotlin", "Advanced ML", "Cloud Architecture"]
@@ -33,57 +33,44 @@ motto: "Building tomorrow's solutions, one commit at a time"
 
 ## 💻 **TECH ARSENAL**
 
-<div align="center">
+<details open>
+<summary><b>🔥 Click to see my complete tech stack</b></summary>
+  
+📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
+</p>
+🌐 Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,fastapi&theme=dark" />
+</p>
+🤖 AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+☁️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,postgresql,sqlite&theme=dark" />
+</p>
+🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,figma,linux&theme=dark" />
+</p>
+</details>
 
-### 🎯 **Core Technologies**
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000)
-
-
-### 🧠 **AI & Data Science**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000)
-
-### 🛠️ **Development Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=000)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)
-
-### ☁️ **Cloud & Databases**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000)
-
-</div>
 
 ---
 
 ## 📊 **GITHUB ANALYTICS**
 <div align="center">
-
-```
-Analyzing GitHub performance...
-████████████████████████████████ 100%
-Status: All systems operational ✅
-```
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJude254&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Derrick's%20Code%20Statistics"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJude254&layout=compact&theme=dark&hide_border=true"/>
-  <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJude254&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJude254&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJude254&layout=compact&theme=tokyonight&border_radius=15&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
-**Commit Frequency:** `Every day is git commit day` 📈
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJude254&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </div>
 
 ---
@@ -149,15 +136,39 @@ Status: All systems operational ✅
 
 ### 💻 **Turning green squares into snake food, one commit at a time**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevJude254/DevJude254/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevJude254/DevJude254/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DevJude254/DevJude254/output/github-snake-dark.svg" />
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevJude254/DevJude254/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevJude254/DevJude254/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DevJude254/DevJude254/output/github-snake-dark.svg" width="100%" />
+  </picture>
+  <p><em>🐍 My contributions getting eaten by the snake!</em></p>
 </div>
 
 ---
+## 💼 **What I Bring to Your Team**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎯 <b>Technical Excellence</b></h3>
+        <p>• Cross-platform mobile development expertise<br/>
+        • AI/ML integration in production apps<br/>
+        • Clean architecture & best practices<br/>
+        • Performance optimization specialist</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🚀 <b>Innovation Mindset</b></h3>
+        <p>• Cutting-edge technology adoption<br/>
+        • Problem-solving with creative solutions<br/>
+        • User-centric design approach<br/>
+        • Continuous learning & improvement</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## 🌐 **CONNECT WITH ME**
 
