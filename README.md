@@ -35,7 +35,7 @@ passion: ["Mobile and Web Apps", "AI/ML", "Chess ♟️", "Coffee ☕"]
 motto: "Building tomorrow's solutions, one commit at a time"
 ```
 
-- 🔭 **Currently Building:** [SmartPace - AI-Powered Student Planner](https://github.com/DevJude254/SmartPace)
+- 🔭 **Currently Building:** AfyaSmart - AI-Powered-App 
 - 🌐 **Portfolio:** [derrickjuma.netlify.app](https://derrickjuma.netlify.app)
 - 🎯 **Goal:** Creating impactful mobile solutions with AI integration
 - 🤝 **Open to:** Either Flutter or Kotlin collaborations & AI projects
@@ -78,11 +78,11 @@ motto: "Building tomorrow's solutions, one commit at a time"
 
 ## 📊 **GITHUB ANALYTICS**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJude254&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJude254&layout=compact&theme=tokyonight&border_radius=15&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jude-craft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=tokyonight&border_radius=15&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJude254&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jude-craft&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </div>
 
 ---
@@ -91,7 +91,7 @@ motto: "Building tomorrow's solutions, one commit at a time"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevJude254&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jude-craft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 
 </div>
 
@@ -104,7 +104,7 @@ motto: "Building tomorrow's solutions, one commit at a time"
 | 🚀 **Metric** | 📈 **Value** | 📝 **Details** |
 |:---:|:---:|:---:|
 | **Ready Apps** | `3` | Production-ready mobile & web applications |
-| **Lines of Code** | `5K+` | Across Flutter, Python, web and Kotlin projects |
+| **Lines of Code** | `10K+` | Across Flutter, Python, web and Kotlin projects |
 | **GitHub Commits** | `300+` | Consistent daily coding streak |
 | **Problem Solving** | `100+` | LeetCode & competitive programming |
 | **AI Models Trained** | `4` | ML models for recommendation & prediction |
@@ -120,10 +120,10 @@ motto: "Building tomorrow's solutions, one commit at a time"
 
 | 🎯 **Project** | 📊 **Impact** | 💻 **Tech Stack** | 📝 **Description** | 🔗 **Links** |
 |:---:|:---:|:---:|:---:|:---:|
-| **🏠 Unistay Housing** | `500+ users`<br/>`89% accuracy`<br/>`40% faster search` | Flutter • FastAPI • ML | AI-powered student housing recommendation with advanced filtering | [Demo](https://github.com/DevJude254/house_recommendation_app) • [Code](link) |
-| **📚 SmartPace** | `200+ students`<br/>`60% study efficiency`<br/>`4.8/5 rating` | Flutter • Firebase • AI | Intelligent study planner with collaboration features | [Beta](https://github.com/DevJude254/SmartPace) • [Code](link) |
-| **👨‍💼 ShopMate** | `50+ businesses`<br/>`95% profit accuracy`<br/>`3 months usage` | Flutter • Firebase | Sales tracking app helping small businesses optimize profits | [Download](https://github.com/DevJude254/ShopMate) • [Code](link) |
-| **📊 Rent Predictor** | `92% prediction accuracy`<br/>`10K+ data points`<br/>`15 features` | Python • XGBoost • ML | Advanced ML model for housing rent prediction in Nairobi | [Model](https://github.com/DevJude254/housing_recommendation) • [API](link) |
+| **🏠 Unistay Housing** | `500+ users`<br/>`89% accuracy`<br/>`40% faster search` | Flutter • FastAPI • ML | AI-powered student housing recommendation with advanced filtering | [Demo](https://github.com/kude-craft/house_recommendation_app) • [Code](link) |
+| **📚 SmartPace** | `200+ students`<br/>`60% study efficiency`<br/>`4.8/5 rating` | Flutter • Firebase • AI | Intelligent study planner with collaboration features | [Beta](https://github.com/jude-craft/SmartPace) • [Code](link) |
+| **👨‍💼 ShopMate** | `50+ businesses`<br/>`95% profit accuracy`<br/>`3 months usage` | Flutter • Firebase | Sales tracking app helping small businesses optimize profits | [Download](https://github.com/jude-craft/ShopMate) • [Code](link) |
+| **📊 Rent Predictor** | `92% prediction accuracy`<br/>`10K+ data points`<br/>`15 features` | Python • XGBoost • ML | Advanced ML model for housing rent prediction in Nairobi | [Model](https://github.com/jude-craft/housing_recommendation) • [API](link) |
 | **🔮 AfyaSmart** | `Coming Q1 2025`<br/>`Flutter + Python`<br/>`OpenAI Integration` | Flutter • AI | Next-generation Health AI assistant | `Private Repo` |
 
 </div>
@@ -245,7 +245,7 @@ motto: "Building tomorrow's solutions, one commit at a time"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevJude254&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -261,9 +261,9 @@ Loading activity matrix...
 ```
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevJude254/DevJude254/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevJude254/DevJude254/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DevJude254/DevJude254/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DevJude254/jude-craft/output/github-snake-dark.svg" width="100%" />
   </picture>
 *The snake represents my code consuming bugs in the matrix* 🐛
 
@@ -309,8 +309,8 @@ Loading activity matrix...
 ---
 
 ### 📊 **Profile Analytics**
-![Profile Views](https://komarev.com/ghpvc/?username=DevJude254&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/DevJude254?logo=github&style=for-the-badge&color=00D9FF&labelColor=000&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=jude-craft&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/jude-craft?logo=github&style=for-the-badge&color=00D9FF&labelColor=000&label=FOLLOWERS)
 
 </div>
 
