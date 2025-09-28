@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1 align="center">
-<span style="color: #4169E1;">
+<h3 align="center">
+<span style="color: #00BFFF;">
 <pre>
 ██████╗ ███████╗██████╗ ██████╗ ██╗ ██████╗██╗  ██╗
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗██║██╔════╝██║ ██╔╝
@@ -11,7 +11,7 @@
 ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝
 </pre>
 </span>
-</h1>
+</h3>
 
 ### *Mobile Software Engineer • Data Science & AI Enthusiast • Gen Z Developer*
 
