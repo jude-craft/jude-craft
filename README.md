@@ -13,7 +13,7 @@
 </span>
 </h3>
 
-### *Mobile Software Engineer • Data Science & AI Enthusiast*
+### *Mobile Software Engineer • Data Science & AI Enthusiast • Startup Enthusiast*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Building+Smart+Mobile+Solutions+%F0%9F%92%A1;Gen+Z+Developer+on+Fire+%F0%9F%94%A5" alt="Typing Animation"/>
 
@@ -46,7 +46,6 @@ motto: "Building tomorrow's solutions, one commit at a time"
 ## 💻 **TECH ARSENAL**
 
 <details open>
-<summary><b>🔥 Click to see my complete tech stack</b></summary>
   
 📱 Mobile Development
 <p>
@@ -84,6 +83,7 @@ motto: "Building tomorrow's solutions, one commit at a time"
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jude-craft&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </div>
+
 
 ---
 
