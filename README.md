@@ -124,7 +124,7 @@ motto: "Building tomorrow's solutions, one commit at a time"
 | **📚 SmartPace** | `200+ students`<br/>`60% study efficiency`<br/>`4.8/5 rating` | Flutter • Firebase • AI | Intelligent study planner with collaboration features | [Beta](https://github.com/jude-craft/SmartPace) • [Code](link) |
 | **👨‍💼 ShopMate** | `50+ businesses`<br/>`95% profit accuracy`<br/>`3 months usage` | Flutter • Firebase | Sales tracking app helping small businesses optimize profits | [Download](https://github.com/jude-craft/ShopMate) • [Code](link) |
 | **📊 Rent Predictor** | `92% prediction accuracy`<br/>`10K+ data points`<br/>`15 features` | Python • XGBoost • ML | Advanced ML model for housing rent prediction in Nairobi | [Model](https://github.com/jude-craft/housing_recommendation) • [API](link) |
-| **🔮 AfyaSmart** | `Coming Q1 2025`<br/>`Flutter + Python`<br/>`OpenAI Integration` | Flutter • AI | Next-generation Health AI assistant | `Private Repo` |
+| **🔮 AfyaSmart** | `Coming Q1 2025`<br/>`Flutter + FastAPI`<br/>`OpenAI Integration` | Flutter • AI | Next-generation Health AI assistant | `Private Repo` |
 
 </div>
 
