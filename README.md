@@ -181,7 +181,7 @@ motto: "Building tomorrow's solutions, one commit at a time"
 ### 📊 **This Week's Focus**
 ```yaml
 🚧 Active Projects:
-  - SmartPace v1.0: Adding AI study recommendations
+  - Eventura: focusing on event booking, registration, and organization features.
   - AfyaSmart : Working on backend
   - Kotlin Multiplatform: Learning cross-platform development
   - LeetCode Daily: Solving 1 problem/day streak (Day 45)
