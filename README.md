@@ -13,7 +13,7 @@
 </span>
 </h3>
 
-### *Mobile Software Engineer • Data Science & AI Enthusiast • Startup Enthusiast*
+### *Mobile Software Engineer • Data Science & AI Enthusiast • Aspiring BlockChain Engineer*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Building+Smart+Mobile+Solutions+%F0%9F%92%A1;Gen+Z+Developer+on+Fire+%F0%9F%94%A5" alt="Typing Animation"/>
 
