@@ -294,19 +294,17 @@ Loading activity matrix...
 
 
 
-## 🌐 **CONNECT WITH ME**
+## 📫 Let's Connect
 
-<div align="center">
+I'm open to opportunities in mobile development, AI/ML engineering, and full-stack roles. Whether you're building the next big app or solving complex technical challenges, I'd love to chat.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/derrick-juma-840529311/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000)](https://x.com/Jude1110641)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/Jude254-programmer)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:derekjude254@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000)](https://derrickjuma.netlify.app)
-
-*📧 I typically respond within 24 hours*
+**📧 Email:** derekjude254@gmail.com  
+**💼 LinkedIn:** [Derrick Juma](https://www.linkedin.com/in/derrick-juma-840529311/)  
+**🌐 Portfolio:** [derrickjuma.netlify.app](https://derrickjuma.netlify.app)  
+**📱 Response Time:** Typically within 24 hours
 
 ---
+
 
 ### 📊 **Profile Analytics**
 ![Profile Views](https://komarev.com/ghpvc/?username=jude-craft&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -322,6 +320,6 @@ Loading activity matrix...
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80;Mobile+Developer+%E2%80%A2+AI+Enthusiast+%E2%80%A2+Problem+Solver;Always+Learning+%E2%80%A2+Always+Growing+%E2%80%A2+Always+Coding"/>
 
-**⭐ Star my repositories if you find them interesting!**
+**⭐ If you find my projects interesting, feel free to star them!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
