@@ -15,7 +15,7 @@
 
 ### *Mobile Software Engineer • Data Science & AI Enthusiast • Aspiring BlockChain Engineer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Building+Smart+Mobile+Solutions+%F0%9F%92%A1;Gen+Z+Developer+on+Fire+%F0%9F%94%A5" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Building+Smart+Mobile+Solutions+%F0%9F%92%A1" alt="Typing Animation"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right"/>
 
@@ -31,7 +31,7 @@ role: "Software Engineer"
 location: "Nairobi,Kenya 🇰🇪"
 current_focus: "Flutter Development & AI Integration"
 learning: ["Kotlin", "Advanced ML", "Cloud Architecture"]
-passion: ["Mobile and Web Apps", "AI/ML", "Chess ♟️", "Coffee ☕"]
+passion: ["Mobile and Web Apps", "AI/ML", Blockchain "Chess ♟️", "Coffee ☕"]
 motto: "Building tomorrow's solutions, one commit at a time"
 ```
 
