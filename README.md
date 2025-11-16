@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3 align="center">
+<h4 align="center">
 <span style="color: #00BFFF;">
 <pre>
 ██████╗ ███████╗██████╗ ██████╗ ██╗ ██████╗██╗  ██╗
@@ -11,13 +11,22 @@
 ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝
 </pre>
 </span>
-</h3>
+</h4>
 
-### *Mobile Software Engineer • Data Science & AI Enthusiast • Aspiring BlockChain Engineer*
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Building+Smart+Mobile+Solutions+%F0%9F%92%A1" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Mobile+Software+Engineer+%F0%9F%93%B1;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Blockchain+Explorer+%F0%9F%94%97;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing Animation"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-Learning-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right"/>
+
+
 
 </div>
 
@@ -41,49 +50,70 @@ motto: "Building tomorrow's solutions, one commit at a time"
 - 🤝 **Open to:** Either Flutter or Kotlin collaborations & AI projects
 - ⚡ **Fun Fact:** I solve chess puzzles while my code compiles!
 
----
 
-## 💻 **TECH ARSENAL**
+## 🛠️ Tech Stack & Tools
 
-<details open>
-  
-📱 Mobile Development
+<div align="center">
+
+### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
-🌐 Web Technologies
+
+### 🌐 Web & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,fastapi&theme=dark" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
-🤖 AI & Data Science
+
+### 🤖 AI & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
-☁️ Backend & Database
+
+### ☁️ Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,postgresql,sqlite&theme=dark" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-🛠️ Development Tools
+
+### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,figma,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-</details>
+
+</div>
 
 
 ---
 
-## 📊 **GITHUB ANALYTICS**
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jude-craft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=tokyonight&border_radius=15&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jude-craft&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jude-craft&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jude-craft&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&stroke=00D9FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
 
 ---
 
@@ -97,159 +127,85 @@ motto: "Building tomorrow's solutions, one commit at a time"
 
 ---
 
-## 📊 **IMPACT METRICS**
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🚀 **Metric** | 📈 **Value** | 📝 **Details** |
-|:---:|:---:|:---:|
-| **Ready Apps** | `3` | Production-ready mobile & web applications |
-| **Lines of Code** | `10K+` | Across Flutter, Python, web and Kotlin projects |
-| **GitHub Commits** | `300+` | Consistent daily coding streak |
-| **Problem Solving** | `100+` | LeetCode & competitive programming |
-| **AI Models Trained** | `4` | ML models for recommendation & prediction |
-| **Coffee Consumed** | `∞` | Essential fuel for coding sessions ☕ |
+| Project | Description | Tech Stack | Impact | Links |
+|---------|-------------|------------|--------|-------|
+| 🏠 **Unistay Housing** | AI-powered student housing recommendation with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Demo](https://github.com/kude-craft/house_recommendation_app) |
+| 📚 **SmartPace** | Intelligent study planner with AI-driven scheduling | Flutter • Firebase • AI | 200+ students, 4.8★ rating | [Beta](https://github.com/jude-craft/SmartPace) |
+| 👨‍💼 **ShopMate** | Sales tracking app for small businesses | Flutter • Firebase | 50+ businesses, 95% accuracy | [Download](https://github.com/jude-craft/ShopMate) |
+| 📊 **Rent Predictor** | ML model for housing rent prediction in Nairobi | Python • XGBoost • ML | 92% prediction accuracy | [Model](https://github.com/jude-craft/housing_recommendation) |
+| 🔮 **AfyaSmart** | AI-powered health assistant (Coming Q1 2025) | Flutter • FastAPI • OpenAI | In Development | `Private Repo` |
 
 </div>
 
----
-
-## 🚀 **ENHANCED FEATURED PROJECTS**
-
-<div align="center">
-
-| 🎯 **Project** | 📊 **Impact** | 💻 **Tech Stack** | 📝 **Description** | 🔗 **Links** |
-|:---:|:---:|:---:|:---:|:---:|
-| **🏠 Unistay Housing** | `500+ users`<br/>`89% accuracy`<br/>`40% faster search` | Flutter • FastAPI • ML | AI-powered student housing recommendation with advanced filtering | [Demo](https://github.com/kude-craft/house_recommendation_app) • [Code](link) |
-| **📚 SmartPace** | `200+ students`<br/>`60% study efficiency`<br/>`4.8/5 rating` | Flutter • Firebase • AI | Intelligent study planner with collaboration features | [Beta](https://github.com/jude-craft/SmartPace) • [Code](link) |
-| **👨‍💼 ShopMate** | `50+ businesses`<br/>`95% profit accuracy`<br/>`3 months usage` | Flutter • Firebase | Sales tracking app helping small businesses optimize profits | [Download](https://github.com/jude-craft/ShopMate) • [Code](link) |
-| **📊 Rent Predictor** | `92% prediction accuracy`<br/>`10K+ data points`<br/>`15 features` | Python • XGBoost • ML | Advanced ML model for housing rent prediction in Nairobi | [Model](https://github.com/jude-craft/housing_recommendation) • [API](link) |
-| **🔮 AfyaSmart** | `Coming Q1 2025`<br/>`Flutter + FastAPI`<br/>`OpenAI Integration` | Flutter • AI | Next-generation Health AI assistant | `Private Repo` |
-
-</div>
 
 ---
 
-## 💡 **TECHNICAL ACHIEVEMENTS**
+
+## 📈 Impact Metrics
 
 <div align="center">
 
-### 🏆 **Performance Optimizations**
-```
-📱 App Performance
-├── 40% faster startup time (Unistay Housing)
-├── 60% reduced memory usage (SmartPace)
-├── 95% crash-free sessions across all apps
-└── 4.6+ average app store rating
-
-🤖 AI/ML Accuracy
-├── 89% recommendation accuracy (Housing)
-├── 92% rent prediction accuracy
-├── 85% user preference matching
-└── 78% faster model inference time
-
-💻 Code Quality
-├── 95%+ test coverage on critical features
-├── 100% adherence to clean architecture
-├── 0 critical security vulnerabilities
-└── Sub-2s average API response time
-```
-
-</div>
-
----
-
-## 📈 **YEAR-OVER-YEAR GROWTH**
-
-<div align="center">
-
-| **Skill** | **2024** | **Growth** | **2025 Goal** |
-|:---:|:---:|:---:|:---:|
-| **Flutter Projects** | 2 |`+100%` | 10 |
-| **GitHub Contributions** | 20| `+200%` | 1,000|
-| **LeetCode Problems** | 0 |`+100%` | 100 |
-| **ML Models Deployed** | 2 | `+100%` | 10 |
-
-</div>
-
----
-
-## 🎯 **CURRENT SPRINT (Updated Weekly)**
-
-<div align="center">
-
-### 📊 **This Week's Focus**
 ```yaml
-🚧 Active Projects:
-  - Eventura: focusing on event booking, registration, and organization features.
-  - AfyaSmart : Working on backend
-  - Kotlin Multiplatform: Learning cross-platform development
-  - LeetCode Daily: Solving 1 problem/day streak (Day 45)
+📱 Production Apps: 3
+💻 Lines of Code: 10,000+
+🔥 GitHub Commits: 300+
+🧩 Problems Solved: 100+
+🤖 ML Models Trained: 4
+☕ Coffee Consumed: ∞
+♟️ Chess Rating: Improving Daily
+```
 
-📈 Weekly Goals:
-  - ✅ Complete 3 Flutter features
-  - 🔄 Deploy 1 ML model update  
-  - ⏳ Write 1 technical blog post
-  - ✅ Contribute to 2 open source projects
+### Performance Achievements
 
-☕ Coffee Counter: 28 cups this week
-♟️ Chess Games: 12 games (8 wins, 3 draws, 1 loss)
+| Category | Achievement | Details |
+|:--------:|:-----------:|:-------:|
+| 🚀 **App Performance** | 40% faster | Startup time optimization |
+| 💾 **Memory Usage** | 60% reduction | Resource efficiency |
+| 🎯 **Crash-Free Sessions** | 95%+ | Rock-solid stability |
+| ⭐ **User Rating** | 4.6+ | Average across all apps |
+| 🤖 **AI Accuracy** | 89% | Recommendation precision |
+
+</div>
+
+---
+
+## 🎯 Current Sprint
+
+<div align="center">
+
+### 📅 This Week's Focus
+
+```javascript
+const currentSprint = {
+    activeProjects: [
+        "🎪 Eventura - Event booking platform",
+        "🏥 AfyaSmart - Backend development",
+        "🎓 Kotlin Multiplatform - Learning journey",
+        "💪 LeetCode Daily - Day 45 streak"
+    ],
+    weeklyGoals: {
+        flutter_features: "✅ 3/3 completed",
+        ml_deployment: "🔄 In progress",
+        blog_posts: "⏳ 1 planned",
+        open_source: "✅ 2 contributions"
+    },
+    stats: {
+        codingHours: 120,
+        coffeeCount: 28,
+        chessGames: "12 (8W-3D-1L)"
+    }
+};
 ```
 
 </div>
 
-
 ---
 
-## 🔥 **REAL-TIME DEVELOPER STATS**
 
-<div align="center">
-
-
-### 📊 **Current Coding Stats**
-```
-🕐 Coding Time: 120+ hours
-📱 Flutter: 45% (54h)
-🐍 Python: 25% (30h)  
-🟩 Kotlin: 20% (24h)
-📊 Data Science: 10% (12h)
-
-🎯 Most Productive Day: Tuesday
-⚡ Best Coding Hour: 2-5 AM
-🔥 Current Streak: 45 days
-☕ Coffee to Code Ratio: 1:3
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+%22The+best+error+message+is+the+one+that+never+shows+up%22;%F0%9F%9A%80+%22Code+is+like+humor.+When+you+explain+it%2C+it's+bad%22;%F0%9F%A7%A0+%22Programming+is+about+what+you+can+figure+out%22;%F0%9F%8E%AF+%22Simplicity+is+the+ultimate+sophistication%22"/>
-
-</div>
-
----
-
-## 🚀 **UPCOMING MILESTONES**
-
-<div align="center">
-
-| **Milestone** | **Target** | **Progress** | **ETA** |
-|:---:|:---:|:---:|:---:|
-| **Flutter Expert Certification** | 100% | `██████████` 85% | Q3 2025 |
-| **First Tech Conference Talk** | 1 Talk | `███░░░░░░░` 30% | Q2 2025 |
-| **Open Source Maintainer** | 1 Project | `██████░░░░` 60% |  2025 |
-| **Mobile App with 10K Users** | 10,000 | `██░░░░░░░░` 20% | Q4 2025 |
-
-</div>
-
----
-
-## 🎨 **CONTRIBUTION GRAPH**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
 
 
 ## 🐍 **Coding Activity Visualizer**
@@ -270,45 +226,71 @@ Loading activity matrix...
 </div>
 
 ---
-## 💼 **What I Bring to Your Team**
+## 💡 What I Bring to Your Team
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🎯 <b>Technical Excellence</b></h3>
-        <p>• Cross-platform mobile development expertise<br/>
-        • AI/ML integration in production apps<br/>
-        • Clean architecture & best practices<br/>
-        • Performance optimization specialist</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🚀 <b>Innovation Mindset</b></h3>
-        <p>• Cutting-edge technology adoption<br/>
-        • Problem-solving with creative solutions<br/>
-        • User-centric design approach<br/>
-        • Continuous learning & improvement</p>
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎯 Technical Excellence</h3>
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
+      <p>
+        ✓ Cross-platform mobile expertise<br/>
+        ✓ AI/ML integration in production<br/>
+        ✓ Clean architecture advocate<br/>
+        ✓ Performance optimization pro
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 Innovation Mindset</h3>
+      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
+      <p>
+        ✓ Cutting-edge tech adoption<br/>
+        ✓ Creative problem solving<br/>
+        ✓ User-centric design<br/>
+        ✓ Continuous learning
+      </p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
 
 ## 📫 Let's Connect
 
-I'm open to opportunities in mobile development, AI/ML engineering, and full-stack roles. Whether you're building the next big app or solving complex technical challenges, I'd love to chat.
+<div align="center">
 
-**📧 Email:** derekjude254@gmail.com  
-**💼 LinkedIn:** [Derrick Juma](https://www.linkedin.com/in/derrick-juma-840529311/)  
-**🌐 Portfolio:** [derrickjuma.netlify.app](https://derrickjuma.netlify.app)  
-**📱 Response Time:** Typically within 24 hours
+<p>
+I'm always excited to collaborate on innovative projects, discuss tech, or just have a chat about the future of mobile development and AI. Feel free to reach out!
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://derrickjuma.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-juma-840529311/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derekjude254@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jude-craft)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jude-craft&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/jude-craft?logo=github&style=for-the-badge&color=00D9FF&labelColor=000&label=FOLLOWERS" alt="Followers" />
+</p>
+
+</div>
 
 ---
 
+## 🎓 Upcoming Milestones
 
-### 📊 **Profile Analytics**
-![Profile Views](https://komarev.com/ghpvc/?username=jude-craft&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/jude-craft?logo=github&style=for-the-badge&color=00D9FF&labelColor=000&label=FOLLOWERS)
+<div align="center">
+
+| Milestone | Progress | Target | ETA |
+|-----------|----------|--------|-----|
+| 🎯 Flutter Expert Certification | ![85%](https://progress-bar.dev/85/?title=progress&width=200&color=00D9FF) | 100% | Q3 2025 |
+| 🎤 First Tech Conference Talk | ![30%](https://progress-bar.dev/30/?title=progress&width=200&color=00D9FF) | 1 Talk | Q2 2025 |
+| 🌟 Open Source Maintainer | ![60%](https://progress-bar.dev/60/?title=progress&width=200&color=00D9FF) | 1 Project | 2025 |
+| 📱 App with 10K Users | ![20%](https://progress-bar.dev/20/?title=progress&width=200&color=00D9FF) | 10,000 | Q4 2025 |
 
 </div>
 
@@ -316,10 +298,14 @@ I'm open to opportunities in mobile development, AI/ML engineering, and full-sta
 
 <div align="center">
 
-### 🌟 **Thanks for Visiting!** 🌟
+### 💭 Daily Inspiration
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80;Mobile+Developer+%E2%80%A2+AI+Enthusiast+%E2%80%A2+Problem+Solver;Always+Learning+%E2%80%A2+Always+Growing+%E2%80%A2+Always+Coding"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+The+best+error+message+is+the+one+that+never+shows+up;%F0%9F%9A%80+Code+is+like+humor.+When+you+explain+it%2C+it's+bad;%F0%9F%A7%A0+Programming+is+thinking%2C+not+typing;%F0%9F%8E%AF+Simplicity+is+the+ultimate+sophistication;%F0%9F%92%AA+Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Quotes" />
 
-**⭐ If you find my projects interesting, feel free to star them!**
+<p>
+  <i>⭐️ From <a href="https://github.com/jude-craft">jude-craft</a></i>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+
+</div>
