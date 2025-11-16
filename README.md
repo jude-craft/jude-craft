@@ -23,32 +23,50 @@
   <img src="https://img.shields.io/badge/Blockchain-Learning-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right"/>
+<div align="center">
 
+<div align="center">
 
+## 🚀 ABOUT ME
 
-</div>
-
-
-
-## 🚀 **ABOUT ME**
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```yaml
 name: "Derrick Juma"
 role: "Software Engineer"
-location: "Nairobi,Kenya 🇰🇪"
+location: "Nairobi, Kenya 🇰🇪"
 current_focus: "Flutter Development & AI Integration"
-learning: ["Kotlin", "Advanced ML", "Cloud Architecture"]
-passion: ["Mobile and Web Apps", "AI/ML", Blockchain "Chess ♟️", "Coffee ☕"]
+learning: ["Blockchain", "Advanced ML", "Cloud Architecture"]
+passion: ["Mobile Apps", "AI/ML", "Blockchain", "Chess ♟️"]
 motto: "Building tomorrow's solutions, one commit at a time"
 ```
 
-- 🔭 **Currently Building:** AfyaSmart - AI-Powered-App 
-- 🌐 **Portfolio:** [derrickjuma.netlify.app](https://derrickjuma.netlify.app)
-- 🎯 **Goal:** Creating impactful mobile solutions with AI integration
-- 🤝 **Open to:** Either Flutter or Kotlin collaborations & AI projects
-- ⚡ **Fun Fact:** I solve chess puzzles while my code compiles!
+<div align="left">
+
+<br/>
+
+🔭 **Currently Building:** AfyaSmart - AI-Powered Health Assistant  
+🌐 **Portfolio:** [derrickjuma.netlify.app](https://derrickjuma.netlify.app)  
+🎯 **Mission:** Creating impactful mobile solutions powered by AI  
+🤝 **Open For:** Flutter/Kotlin collaborations & AI projects  
+⚡ **Fun Fact:** I solve chess puzzles while my code compiles!
+
+</div>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 ## 🛠️ Tech Stack & Tools
