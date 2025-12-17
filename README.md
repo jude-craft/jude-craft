@@ -121,10 +121,12 @@ void main() {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jude-craft&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9&stroke=00D9FF" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jude-craft&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=github-compact" alt="Contribution Graph" />
 </div>
 
 ---
