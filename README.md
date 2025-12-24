@@ -1,19 +1,6 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9&height=180&section=header&text=Derrick%20Juma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Explorer%20%7C%20Problem%20Solver&descSize=16&descAlignY=51" />
 
-<h4 align="center">
-<span style="color: #00BFFF;">
-<pre>
-██████╗ ███████╗██████╗ ██████╗ ██╗ ██████╗██╗  ██╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██║██╔════╝██║ ██╔╝
-██║  ██║█████╗  ██████╔╝██████╔╝██║██║     █████╔╝ 
-██║  ██║██╔══╝  ██╔══██╗██╔══██╗██║██║     ██╔═██╗ 
-██████╔╝███████╗██║  ██║██║  ██║██║╚██████╗██║  ██╗
-╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝
-</pre>
-</span>
-</h4>
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Mobile+Software+Engineer+%F0%9F%93%B1;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Blockchain+Explorer+%F0%9F%94%97;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing Animation"/>
 
@@ -29,16 +16,24 @@
 <td width="50%" valign="top" align="left">
 
 ```dart
-void main() {
-  final profile = {
-    'name': 'Derrick Juma',
-    'role': 'Software Engineer',
-    'location': 'Nairobi, Kenya 🇰🇪',
-    'current_focus': 'Flutter Development & AI Integration',
-    'learning': ['Blockchain', 'Advanced ML', 'Cloud Architecture'],
-    'passion': ['Mobile Apps', 'AI/ML', 'Blockchain', 'Chess ♟️'],
-    'motto': 'Building tomorrow\'s solutions, one commit at a time',
-  };
+class Developer {
+  final String name = "Derrick Juma";
+  final String role = "Software Engineer";
+  
+  List<String> currentStack = [
+    "Flutter & Dart",
+    "Python (AI/ML)",
+    "Firebase & Cloud",
+  ];
+  
+  List<String> exploring = [
+    "Blockchain & Smart Contracts",
+    "Advanced ML Architectures",
+    "Serverless & Edge Computing",
+  ];
+  
+  String motto = "Code with purpose,"
+                 "ship with confidence";
 }
 ```
 
@@ -64,54 +59,47 @@ void main() {
 </table>
 
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### 🤖 AI & Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-### ☁️ Database & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-</div>
 
 
----
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>Click to expand my toolkit</b></summary>
+
+<br/>
+
+**Mobile Development**
+```
+Flutter  ████████████████████░  95%
+Dart     ████████████████████░  95%
+Kotlin   ███████████████░░░░░  75%
+Android  ██████████████░░░░░░  70%
+```
+
+**AI & Data**
+```
+TensorFlow  ████████████████░░░░  80%
+Python      ███████████████████░  95%
+FastAPI     ██████████████████░░  90%
+scikit-learn ███████████████░░░░  75%
+```
+
+**Backend & Cloud**
+```
+Firebase     ████████████████████  100%
+PostgreSQL   ███████████████░░░░░  75%
+REST APIs    ████████████████████  100%
+Docker       ██████████████░░░░░░  70%
+Spring Boot  ██████████████░░░░░░  70%
+
+```
+**Blockchain & Web3**
+```
+Solidity  ██████████████░░░░░░  70%
+
+```
+
+</details>
 
 ## 📊 GitHub Statistics
 
@@ -134,9 +122,7 @@ void main() {
 ## 🏆 **ACHIEVEMENTS & TROPHIES**
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jude-craft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-
+<img src="https://github-trophies.vercel.app/?username=jude-craft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
 
 ---
@@ -156,6 +142,31 @@ void main() {
 </div>
 
 
+
+
+## 🎓 2026 Roadmap
+```mermaid
+gantt
+    title My Learning & Development Journey
+    dateFormat  YYYY-MM
+    section Certifications
+    AWS Cloud Practitioner    :2026-01, 3M
+    Certified Data Engineer   :2026-04, 4M
+    Senior Flutter Developer  :2026-02, 5M
+    Solidity Developer        :2026-06, 4M
+    section Projects
+    Launch APK 1              :2026-01, 2M
+    Launch APK 2              :2026-03, 2M
+    Launch APK 3              :2026-05, 2M
+    DeFi Smart Contract       :2026-07, 3M
+    Data Pipeline Platform    :2026-08, 4M
+    section Skills
+    Smart Contract Development :2026-06, 6M
+    Advanced Cloud Architecture :2026-02, 5M
+    Data Engineering & ETL     :2026-04, 5M
+    Web3 & Blockchain          :2026-07, 5M
+    Microservices & APIs       :2026-03, 4M
+```
 ---
 
 
@@ -166,8 +177,8 @@ void main() {
 ```yaml
 📱 Production Apps: 3
 💻 Lines of Code: 10,000+
-🔥 GitHub Commits: 300+
-🧩 Problems Solved: 100+
+🔥 GitHub Commits: 500+
+🧩 Problems Solved: 10+
 🤖 ML Models Trained: 4
 ☕ Coffee Consumed: ∞
 ♟️ Chess Rating: Improving Daily
@@ -187,128 +198,63 @@ void main() {
 
 ---
 
-## 🎯 Current Sprint
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### 📅 This Week's Focus
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge)](https://derrickjuma.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/derrick-juma-840529311/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:derekjude254@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jude_dev)
 
-```javascript
-const currentSprint = {
-    activeProjects: [
-        "🎪 Eventura - Event booking platform",
-        "🏥 AfyaSmart - Backend development",
-        "🎓 Kotlin Multiplatform - Learning journey",
-        "💪 LeetCode Daily - Day 45 streak"
-    ],
-    weeklyGoals: {
-        flutter_features: "✅ 3/3 completed",
-        ml_deployment: "🔄 In progress",
-        blog_posts: "⏳ 1 planned",
-        open_source: "✅ 2 contributions"
-    },
-    stats: {
-        codingHours: 120,
-        coffeeCount: 28,
-        chessGames: "12 (8W-3D-1L)"
-    }
-};
+**Open to:**
+ 🚀 Exciting Flutter projects
+ 🤖 AI/ML integration challenges
+ 🌍 Open source collaborations
+☕ Tech discussions over coffee
+
+
+
+</div>
+
+
+---
+
+## 💡 Fun Facts
+
+<div align="center">
+
+```yaml
+☕ Coffee Dependency: High
+🎮 Current Chess ELO: 1450 (and climbing)
+🎵 Coding Playlist: Lo-fi + Deep Focus
+🌙 Peak Productivity: 9 PM - 2 AM
+📚 Currently Reading: "Clean Architecture" by Uncle Bob
+🎯 2026 Goal: Ship 5 production apps, contribute to 10 OSS projects
 ```
 
 </div>
 
----
+--- 
+## 🐍 Contribution Snake
 
-
-
-
-## 🐍 **Coding Activity Visualizer**
-
-<div align="center">
-
-```
-Loading activity matrix...
-```
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DevJude254/jude-craft/output/github-snake-dark.svg" width="100%" />
-  </picture>
-*The snake represents my code consuming bugs in the matrix* 🐛
-
-</div>
-
----
-## 💡 What I Bring to Your Team
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎯 Technical Excellence</h3>
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
-      <p>
-        ✓ Cross-platform mobile expertise<br/>
-        ✓ AI/ML integration in production<br/>
-        ✓ Clean architecture advocate<br/>
-        ✓ Performance optimization pro
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🚀 Innovation Mindset</h3>
-      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
-      <p>
-        ✓ Cutting-edge tech adoption<br/>
-        ✓ Creative problem solving<br/>
-        ✓ User-centric design<br/>
-        ✓ Continuous learning
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<p>
-I'm always excited to collaborate on innovative projects, discuss tech, or just have a chat about the future of mobile development and AI. Feel free to reach out!
-</p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://derrickjuma.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-juma-840529311/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derekjude254@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jude-craft)
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=jude-craft&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/jude-craft?logo=github&style=for-the-badge&color=00D9FF&labelColor=000&label=FOLLOWERS" alt="Followers" />
-</p>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
-## 🎓 Upcoming Milestones
-
 <div align="center">
 
-| Milestone | Progress | Target | ETA |
-|-----------|----------|--------|-----|
-| 🎯 Flutter Expert Certification | ![85%](https://progress-bar.dev/85/?title=progress&width=200&color=00D9FF) | 100% | Q3 2025 |
-| 🎤 First Tech Conference Talk | ![30%](https://progress-bar.dev/30/?title=progress&width=200&color=00D9FF) | 1 Talk | Q2 2025 |
-| 🌟 Open Source Maintainer | ![60%](https://progress-bar.dev/60/?title=progress&width=200&color=00D9FF) | 1 Project | 2025 |
-| 📱 App with 10K Users | ![20%](https://progress-bar.dev/20/?title=progress&width=200&color=00D9FF) | 10,000 | Q4 2025 |
+### 💭 Quote of the Day
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="600" />
 
 ---
+
 
 <div align="center">
 
