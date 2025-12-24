@@ -22,6 +22,7 @@ class Developer {
   
   List<String> currentStack = [
     "Flutter & Dart",
+    "Kotlin & JPC",
     "Python (AI/ML)",
     "Firebase & Cloud",
   ];
@@ -29,6 +30,7 @@ class Developer {
   List<String> exploring = [
     "Blockchain & Smart Contracts",
     "Advanced ML Architectures",
+    "Spring Boot for backend",
     "Serverless & Edge Computing",
   ];
   
