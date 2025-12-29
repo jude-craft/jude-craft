@@ -16,7 +16,7 @@
 
 ```dart
 class Developer {
-  final String name = "Derrick Juma";
+  final String name = "Derick Juma";
   final String role = "Software Engineer";
   
   List<String> currentStack = [
