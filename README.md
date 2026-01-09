@@ -192,30 +192,38 @@ gantt
 
 </div>
 
----
+##
 
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge)](https://derrickjuma.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/derrick-juma-840529311/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:derekjude254@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jude_dev)
+  <a href="https://derrickjuma.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/derrick-juma-840529311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:derekjude254@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/jude_dev">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 
-**Open to:**
- 🚀 Exciting Flutter projects
- 🤖 AI/ML integration challenges
- 🌍 Open source collaborations
-☕ Tech discussions over coffee
+  <br />
 
-
+  <h3>I'm always open to:</h3>
+  
+  🤖 **AI & Data Science** collaborations  
+  📱 **Flutter** app development & architecture  
+  🌍 **Open Source** contributions  
+  ☕ **Tech chats** & virtual coffee  
 
 </div>
 
-
----
+##
 
 ## 💡 Fun Facts
 
@@ -259,8 +267,10 @@ gantt
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+The+best+error+message+is+the+one+that+never+shows+up;%F0%9F%9A%80+Code+is+like+humor.+When+you+explain+it%2C+it's+bad;%F0%9F%A7%A0+Programming+is+thinking%2C+not+typing;%F0%9F%8E%AF+Simplicity+is+the+ultimate+sophistication;%F0%9F%92%AA+Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Quotes" />
 
 <p>
-  <i>⭐️ From <a href="https://github.com/jude-craft">jude-craft</a></i>
+  ⭐️ If you like my work, feel free to leave a star on my repositories!  
+  <i>— <a href="https://github.com/jude-craft">jude-craft</a></i>
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 
