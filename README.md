@@ -131,7 +131,6 @@ Solidity  ██████████████░░░░░░  70%
 | Project | Description | Tech Stack | Impact | Links |
 |---------|-------------|------------|--------|-------|
 | 🏠 **Unistay Housing** | AI-powered student housing recommendation with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Demo](https://github.com/kude-craft/house_recommendation_app) |
-| 📚 **SmartPace** | Intelligent study planner with AI-driven scheduling | Flutter • Firebase • AI | 200+ students, 4.8★ rating | [Beta](https://github.com/jude-craft/SmartPace) |
 | 👨‍💼 **ShopMate** | Sales tracking app for small businesses | Flutter • Firebase | 50+ businesses, 95% accuracy | [Download](https://github.com/jude-craft/ShopMate) |
 | 📊 **Rent Predictor** | ML model for housing rent prediction in Nairobi | Python • XGBoost • ML | 92% prediction accuracy | [Model](https://github.com/jude-craft/housing_recommendation) |
 | 🔮 **AfyaSmart** | AI-powered health assistant (Coming Q1 2025) | Flutter • FastAPI • OpenAI | In Development | `Private Repo` |
