@@ -1,13 +1,9 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Derick%20Juma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Explorer%20%7C%20Problem%20Solver&descSize=16&descAlignY=51" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Derick%20Juma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Flutter|%20Kotlin|%20Java|%20Python%20%7C%20Blockchain&descSize=16&descAlignY=51" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Mobile+Software+Engineer+%F0%9F%93%B1;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Blockchain+Explorer+%F0%9F%94%97;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing Animation"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-Learning-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white" />
-</p>
+
 
 ### 🚀 ABOUT ME
 <table>
