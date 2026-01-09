@@ -114,7 +114,7 @@ Solidity  ██████████████░░░░░░  70%
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=github-compact" alt="Contribution Graph" />
 </div>
 
----
+##
 
 ## 🏆 **ACHIEVEMENTS & TROPHIES**
 
@@ -122,7 +122,7 @@ Solidity  ██████████████░░░░░░  70%
 <img src="https://github-trophies.vercel.app/?username=jude-craft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
 
----
+##
 
 ## 🚀 Featured Projects
 
@@ -163,7 +163,7 @@ gantt
     Web3 & Blockchain          :2026-07, 5M
     Microservices & APIs       :2026-03, 4M
 ```
----
+##
 
 
 ## 📈 Impact Metrics
@@ -240,7 +240,7 @@ gantt
 
 </div>
 
---- 
+##
 ## 🐍 Contribution Snake
 
 <picture>
@@ -257,7 +257,7 @@ gantt
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="600" />
 
----
+##
 
 
 <div align="center">
