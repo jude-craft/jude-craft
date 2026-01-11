@@ -217,7 +217,7 @@ gantt
   <h3>I'm always open to:</h3>
   
   🤖 **AI & Data Science** collaborations  
-  📱 **Flutter** app development & architecture  
+  📱 **Mobile** app development  
   🌍 **Open Source** contributions  
   ☕ **Tech chats** & virtual coffee  
 
@@ -231,9 +231,9 @@ gantt
 
 ```yaml
 ☕ Coffee Dependency: High
-🎮 Current Chess ELO: 1450 (and climbing)
+🎮 Current Chess ELO: 1000 (and climbing)
 🎵 Coding Playlist: Lo-fi + Deep Focus
-🌙 Peak Productivity: 9 PM - 2 AM
+🌙 Peak Productivity: 12 AM - 5 AM
 📚 Currently Reading: "Clean Architecture" by Uncle Bob
 🎯 2026 Goal: Ship 5 production apps, contribute to 10 OSS projects
 ```
