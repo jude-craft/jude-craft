@@ -192,7 +192,7 @@ gantt
 
 ---
 
-**Currently grinding**: Spring boot ackend while building APK #1 🔨  
+**Currently grinding**: Spring boot backend while building APK #1 🔨  
 **Updates**: Follow along as I document wins, fails, and lessons learned.
 ##
 
