@@ -139,13 +139,12 @@ Solidity  ██████████████░░░░░░  70%
 
 
 
-
 ## 🚀 2026: Building in Public
 
 > **Mission**: From mobile apps to smart contracts, shipping real-world solutions while stacking certifications.
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#6366f1','primaryTextColor':'#fff','primaryBorderColor':'#4f46e5','lineColor':'#8b5cf6','secondaryColor':'#ec4899','tertiaryColor':'#10b981'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#22c55e','primaryTextColor':'#000000','primaryBorderColor':'#16a34a','lineColor':'#f97316','secondaryColor':'#3b82f6','tertiaryColor':'#a855f7','critBkgColor':'#fbbf24','critBorderColor':'#f59e0b','activeBkgColor':'#60a5fa','activeBorderColor':'#3b82f6','doneBkgColor':'#4ade80','taskTextColor':'#ffffff','taskTextOutsideColor':'#000000','gridColor':'#374151','sectionBkgColor':'#1f2937','altSectionBkgColor':'#111827','numberSectionStyles':'2','fontSize':'14px'}}}%%
 gantt
     title Evolution Timeline
     dateFormat YYYY-MM
@@ -192,9 +191,8 @@ gantt
 
 ---
 
-**Currently grinding**: Spring boot backend while building APK #1 🔨  
+**Currently grinding**: AWS fundamentals while building APK #1 🔨  
 **Updates**: Follow along as I document wins, fails, and lessons learned.
-##
 
 
 ## 📈 Impact Metrics
