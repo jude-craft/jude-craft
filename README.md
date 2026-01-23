@@ -191,7 +191,7 @@ gantt
 
 ---
 
-**Currently grinding**: AWS fundamentals while building APK #1 🔨  
+**Currently grinding**: Spring Boot Backend while building APK #1 🔨  
 **Updates**: Follow along as I document wins, fails, and lessons learned.
 
 
