@@ -140,29 +140,60 @@ Solidity  ██████████████░░░░░░  70%
 
 
 
-## 🎓 2026 Roadmap
+## 🚀 2026: Building in Public
+
+> **Mission**: From mobile apps to smart contracts, shipping real-world solutions while stacking certifications.
+
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#6366f1','primaryTextColor':'#fff','primaryBorderColor':'#4f46e5','lineColor':'#8b5cf6','secondaryColor':'#ec4899','tertiaryColor':'#10b981'}}}%%
 gantt
-    title My Learning & Development Journey
-    dateFormat  YYYY-MM
-    section Certifications
-    AWS Cloud Practitioner    :2026-01, 3M
-    Certified Data Engineer   :2026-04, 4M
-    Senior Flutter Developer  :2026-02, 5M
-    Solidity Developer        :2026-06, 4M
-    section Projects
-    Launch APK 1              :2026-01, 2M
-    Launch APK 2              :2026-03, 2M
-    Launch APK 3              :2026-05, 2M
-    DeFi Smart Contract       :2026-07, 3M
-    Data Pipeline Platform    :2026-08, 4M
-    section Skills
-    Smart Contract Development :2026-06, 6M
-    Advanced Cloud Architecture :2026-02, 5M
-    Data Engineering & ETL     :2026-04, 5M
-    Web3 & Blockchain          :2026-07, 5M
-    Microservices & APIs       :2026-03, 4M
+    title Evolution Timeline
+    dateFormat YYYY-MM
+    
+    section 📱 Ship & Iterate
+    APK v1.0 Launch           :crit, p1, 2026-01, 2M
+    APK v2.0 Launch           :crit, p2, 2026-03, 2M
+    APK v3.0 Launch           :crit, p3, 2026-05, 2M
+    DeFi Protocol (Testnet→Mainnet) :crit, p4, 2026-07, 3M
+    Data Pipeline Platform    :crit, p5, 2026-08, 4M
+    
+    section 🎯 Skill Unlocks
+    Cloud Architecture Mastery :active, s1, 2026-02, 5M
+    API Design & Microservices :active, s2, 2026-03, 4M
+    ETL & Data Orchestration   :active, s3, 2026-04, 5M
+    Solidity & Smart Contracts :active, s4, 2026-06, 6M
+    Web3 Ecosystem Deep Dive   :active, s5, 2026-07, 5M
+    
+    section ✅ Certifications
+    AWS Cloud Practitioner     :milestone, c1, 2026-03, 0d
+    Senior Flutter Developer   :milestone, c2, 2026-06, 0d
+    Certified Data Engineer    :milestone, c3, 2026-07, 0d
+    Solidity Developer Cert    :milestone, c4, 2026-09, 0d
 ```
+
+### 📊 Progress Tracking
+
+**Q1**: Foundation Layer  
+☑️ AWS fundamentals + First production app  
+☑️ Microservices architecture patterns
+
+**Q2**: Mobile & Data  
+☑️ Advanced Flutter patterns + Two more apps in production  
+☑️ Data engineering pipelines & ETL workflows
+
+**Q3**: Blockchain Era  
+☑️ Smart contract development  
+☑️ DeFi protocol deployment  
+☑️ Web3 integration patterns
+
+**Q4**: Integration & Scale  
+☑️ Full-stack data platform  
+☑️ Cross-domain architecture (Mobile + Cloud + Blockchain)
+
+---
+
+**Currently grinding**: Spring boot ackend while building APK #1 🔨  
+**Updates**: Follow along as I document wins, fails, and lessons learned.
 ##
 
 
