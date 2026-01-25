@@ -143,56 +143,102 @@ Solidity  ██████████████░░░░░░  70%
 
 > **Mission**: From mobile apps to smart contracts, shipping real-world solutions while stacking certifications.
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#22c55e','primaryTextColor':'#000000','primaryBorderColor':'#16a34a','lineColor':'#f97316','secondaryColor':'#3b82f6','tertiaryColor':'#a855f7','critBkgColor':'#fbbf24','critBorderColor':'#f59e0b','activeBkgColor':'#60a5fa','activeBorderColor':'#3b82f6','doneBkgColor':'#4ade80','taskTextColor':'#ffffff','taskTextOutsideColor':'#000000','gridColor':'#374151','sectionBkgColor':'#1f2937','altSectionBkgColor':'#111827','numberSectionStyles':'2','fontSize':'14px'}}}%%
-gantt
-    title Evolution Timeline
-    dateFormat YYYY-MM
-    
-    section 📱 Ship & Iterate
-    APK v1.0 Launch           :crit, p1, 2026-01, 2M
-    APK v2.0 Launch           :crit, p2, 2026-03, 2M
-    APK v3.0 Launch           :crit, p3, 2026-05, 2M
-    DeFi Protocol (Testnet→Mainnet) :crit, p4, 2026-07, 3M
-    Data Pipeline Platform    :crit, p5, 2026-08, 4M
-    
-    section 🎯 Skill Unlocks
-    Cloud Architecture Mastery :active, s1, 2026-02, 5M
-    API Design & Microservices :active, s2, 2026-03, 4M
-    ETL & Data Orchestration   :active, s3, 2026-04, 5M
-    Solidity & Smart Contracts :active, s4, 2026-06, 6M
-    Web3 Ecosystem Deep Dive   :active, s5, 2026-07, 5M
-    
-    section ✅ Certifications
-    AWS Cloud Practitioner     :milestone, c1, 2026-03, 0d
-    Senior Flutter Developer   :milestone, c2, 2026-06, 0d
-    Certified Data Engineer    :milestone, c3, 2026-07, 0d
-    Solidity Developer Cert    :milestone, c4, 2026-09, 0d
+<div align="center">
+
+### 📊 The Year Ahead
+
+| 📱 Projects | 🎯 Skills | ✅ Certs | 🔥 Months |
+|:-----------:|:---------:|:--------:|:---------:|
+| **5** Shipping | **5** Domains | **4** Planned | **12** Evolution |
+
+</div>
+
+
+
+### 🎯 **2026 Sprint**
+
 ```
+Q1 ████████████░░░░░░░░  Foundation Layer
+   → AWS fundamentals | APK v1.0 | Microservices
+   ✓ AWS Cloud Practitioner
 
-### 📊 Progress Tracking
+Q2 ░░░░░░░░░░░░████████░░  Mobile & Data  
+   → Flutter mastery | APK v2.0 & v3.0 | ETL pipelines
+   ✓ Senior Flutter Developer | Data Engineer
 
-**Q1**: Foundation Layer  
-☑️ AWS fundamentals + First production app  
-☑️ Microservices architecture patterns
+Q3 ░░░░░░░░░░░░░░░░░░████  Blockchain Era
+   → Smart contracts | DeFi protocol | Web3
+   ✓ Solidity Developer
 
-**Q2**: Mobile & Data  
-☑️ Advanced Flutter patterns + Two more apps in production  
-☑️ Data engineering pipelines & ETL workflows
-
-**Q3**: Blockchain Era  
-☑️ Smart contract development  
-☑️ DeFi protocol deployment  
-☑️ Web3 integration patterns
-
-**Q4**: Integration & Scale  
-☑️ Full-stack data platform  
-☑️ Cross-domain architecture (Mobile + Cloud + Blockchain)
+Q4 ░░░░░░░░░░░░░░░░░░░░░░  Integration & Scale
+   → Data platform | Cross-domain architecture
+```
 
 ---
 
-**Currently grinding**: Spring Boot Backend while building APK #1 🔨  
-**Updates**: Follow along as I document wins, fails, and lessons learned.
+### 🔨 **What I'm Shipping**
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**📱 APK Trilogy**
+```
+v1.0 → v2.0 → v3.0
+```
+Three apps, three iterations,  
+infinite lessons learned
+
+</td>
+<td width="33%" valign="top">
+
+**⛓️ DeFi Protocol**
+```
+Testnet → Audit → Mainnet
+```
+Smart contracts meet  
+real-world finance
+
+</td>
+<td width="33%" valign="top">
+
+**🔄 Data Pipeline**
+```
+ETL → Cloud → Scale
+```
+Engineering data  
+at enterprise level
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💡 **Current Status**
+
+```javascript
+const status = {
+  building: "Spring Boot Backend + APK #1",
+  learning: "AWS Architecture + Microservices",
+  progress: "25% through Q1",
+  vibe: "🔥 Shipping daily"
+};
+```
+
+**Follow the journey** → Wins, fails, and everything between
+
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/jude-craft)
+
+</div>
+
+---
+
+**Legend**: `█` Completed | `░` Upcoming | `✓` Certification Earned | `→` Focus Areas
+
+---
 
 
 ## 📈 Impact Metrics
