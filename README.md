@@ -1,8 +1,23 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Derick%20Juma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Flutter|%20Kotlin|%20Java|%20Python%20%7C%20Blockchain&descSize=16&descAlignY=51" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Mobile+Software+Engineer+%F0%9F%93%B1;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Blockchain+Explorer+%F0%9F%94%97;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing Animation"/>
+<!-- Typing code animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
+<br/><br/>
+
+<!-- Name -->
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2000&pause=2000&color=3B82F6&center=true&vCenter=true&repeat=false&width=800&lines=DERICK+JUMA" alt="Name" />
+  </a>
+</h1>
+
+<h3>📱Software Engineer | Flutter | Kotlin | Java | Python | BlockChain </h3>
+
+<br/>
+
+
+</div>
 
 
 ### 🚀 ABOUT ME
@@ -346,6 +361,18 @@ const status = {
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=while+(alive)+%7B+code()+%7D;Thanks+for+stopping+by!+🌟;Let's+connect+and+create!+💼" alt="Footer Message" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=180&section=footer&reversal=false" />
 
 </div>
