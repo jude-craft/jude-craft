@@ -76,42 +76,83 @@ class Developer {
 ## 🛠️ Tech Arsenal
 
 <details open>
-<summary><b>Click to expand my toolkit</b></summary>
+<summary><b>💻 Click to explore my tech stack</b></summary>
 
 <br/>
 
+<div align="center">
+
+### Languages & Frameworks
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+### Tools & Technologies
+
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+<br/>
+
+### 📊 Proficiency Levels
+
+<table>
+<tr>
+<td width="50%">
+
 **Mobile Development**
 ```
-Flutter  ████████████████████░  95%
-Dart     ████████████████████░  95%
-Kotlin   ███████████████░░░░░  75%
-Android  ██████████████░░░░░░  70%
+Flutter      ████████████████████░  95%
+Dart         ████████████████████░  95%
+Kotlin       ███████████████░░░░░  75%
+Android      ██████████████░░░░░░  70%
 ```
 
-**AI & Data**
+**AI & Data Science**
 ```
-TensorFlow  ████████████████░░░░  80%
-Python      ███████████████████░  95%
-FastAPI     ██████████████████░░  90%
-scikit-learn ███████████████░░░░  75%
+Python       ███████████████████░  95%
+TensorFlow   ████████████████░░░░  80%
+FastAPI      ██████████████████░░  90%
+scikit-learn ███████████████░░░░░  75%
 ```
+
+</td>
+<td width="50%">
 
 **Backend & Cloud**
 ```
 Firebase     ████████████████████  100%
-PostgreSQL   ███████████████░░░░░  75%
-REST APIs    ████████████████████  100%
-Docker       ██████████████░░░░░░  70%
 Spring Boot  ██████████████░░░░░░  70%
-
+PostgreSQL   ███████████████░░░░░  75%
+Docker       ██████████████░░░░░░  70%
+REST APIs    ████████████████████  100%
 ```
+
 **Blockchain & Web3**
 ```
-Solidity  ██████████████░░░░░░  70%
-
+Solidity     ██████████████░░░░░░  70%
+Smart Contracts ████████████░░░░  60%
+Web3         ███████████░░░░░░░░  55%
 ```
 
+</td>
+</tr>
+</table>
+
 </details>
+
+<br/>
 
 ## 📊 GitHub Statistics
 
@@ -360,19 +401,17 @@ const status = {
   <i>— <a href="https://github.com/jude-craft">jude-craft</a></i>
 </p>
 
+<div align="center">
+
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=while+(alive)+%7B+code()+%7D;Thanks+for+stopping+by!+🌟;Let's+connect+and+create!+💼" alt="Footer Message" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=while+(alive)+%7B+code()+%7D;Thanks+for+visiting!+⚡;Let's+build+something+amazing!+🚀" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=180&section=footer&reversal=false" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 </div>
