@@ -404,14 +404,6 @@ const status = {
 <div align="center">
 
 
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=while+(alive)+%7B+code()+%7D;Thanks+for+visiting!+⚡;Let's+build+something+amazing!+🚀" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 </div>
