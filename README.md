@@ -189,7 +189,7 @@ Web3         ███████████░░░░░░░░  55%
 | 🏠 **Unistay Housing** | AI-powered student housing recommendation with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Demo](https://github.com/kude-craft/house_recommendation_app) |
 | 👨‍💼 **ShopMate** | Sales tracking app for small businesses | Flutter • Firebase | 50+ businesses, 95% accuracy | [Download](https://github.com/jude-craft/ShopMate) |
 | 📊 **Rent Predictor** | ML model for housing rent prediction in Nairobi | Python • XGBoost • ML | 92% prediction accuracy | [Model](https://github.com/jude-craft/housing_recommendation) |
-| 🔮 **AfyaSmart** | AI-powered health assistant (Coming Q1 2025) | Flutter • FastAPI • OpenAI | In Development | `Private Repo` |
+| 🔮 **AfyaSmart** | AI-powered health assistant (Coming Q1 2026) | Flutter • FastAPI • OpenAI | In Development | `Private Repo` |
 
 </div>
 
