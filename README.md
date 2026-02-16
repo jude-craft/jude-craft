@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Typing code animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+<!-- Ocean Blue Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=180&section=header&text=Derick%20Juma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header" />
 
-<br/><br/>
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Mobile+Developer;Blockchain+Specialist;Flutter+Expert" alt="Typing SVG" />
+</h3>
 
-<!-- Name -->
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2000&pause=2000&color=3B82F6&center=true&vCenter=true&repeat=false&width=800&lines=DERICK+JUMA" alt="Name" />
-  </a>
-</h1>
+<br/>
 
-<h3>📱Software Engineer | Flutter | Kotlin | Java | Python | BlockChain </h3>
+<!-- Tech Stack with Icons -->
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,solidity,git,firebase,docker,linux&theme=dark&perline=5" alt="Tech Stack" /></a>
+</p>
 
 <br/>
 
@@ -392,18 +392,29 @@ const status = {
 
 <div align="center">
 
-### 💭 Daily Inspiration
+<!-- Ocean Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=120&section=footer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+The+best+error+message+is+the+one+that+never+shows+up;%F0%9F%9A%80+Code+is+like+humor.+When+you+explain+it%2C+it's+bad;%F0%9F%A7%A0+Programming+is+thinking%2C+not+typing;%F0%9F%8E%AF+Simplicity+is+the+ultimate+sophistication;%F0%9F%92%AA+Make+it+work%2C+make+it+right%2C+make+it+fast" alt="Quotes" />
+<br/>
 
+### 💭 Developer Wisdom
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=900&lines=First+solve+the+problem+then+write+the+code;Code+is+like+humor+when+you+explain+it+its+bad;The+best+error+message+is+the+one+that+never+shows+up;Simplicity+is+the+ultimate+sophistication;Make+it+work+make+it+right+make+it+fast" alt="Dev Quotes" />
+
+<br/><br/>
+
+<!-- Call to Action -->
 <p>
-  ⭐️ If you like my work, feel free to leave a star on my repositories!  
-  <i>— <a href="https://github.com/jude-craft">jude-craft</a></i>
+  <img src="https://img.shields.io/badge/⭐_Star-My_Repos-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Star Badge" />
 </p>
 
-<div align="center">
+<p>
+  <i>Built with 💙 by <a href="https://github.com/jude-craft">Derick Juma</a></i>
+</p>
 
+<br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<!-- Footer Stats -->
+<img src="https://komarev.com/ghpvc/?username=jude-craft&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
 
 </div>
