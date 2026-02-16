@@ -9,9 +9,11 @@
 
 <br/>
 
-<!-- Tech Stack with Icons -->
+<!-- Specializations -->
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,solidity,git,firebase,docker,linux&theme=dark&perline=5" alt="Tech Stack" /></a>
+  <img src="https://img.shields.io/badge/Software_Engineer-3B82F6?style=for-the-badge" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/Mobile_Dev-02569B?style=for-the-badge" alt="Mobile Dev" />
+  <img src="https://img.shields.io/badge/Aspiring_Data_Engineer-06B6D4?style=for-the-badge" alt="Data Engineer" />
 </p>
 
 <br/>
@@ -38,7 +40,6 @@ class Developer {
   ];
   
   List<String> exploring = [
-    "Blockchain & Smart Contracts",
     "Advanced ML Architectures",
     "Spring Boot for backend",
     "Serverless & Edge Computing",
@@ -73,37 +74,107 @@ class Developer {
 
 
 
-## Tech Arsenal
-
-<details open>
-<summary><b>Click to explore my tech stack</b></summary>
-
-<br/>
+## Tech Stack
 
 <div align="center">
 
 ### Languages & Frameworks
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+<br>Dart
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+<br>Kotlin
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+<br>Solidity
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+<br>Spring
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+</tr>
+</table>
 
-### Tools & Technologies
+### Cloud & DevOps
 
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+</table>
+
+### Databases & AI/ML
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+##
+
 
 ### Proficiency Levels
 
@@ -226,7 +297,7 @@ Q3 ░░░░░░░░░░░░░░░░░░░░░░  Integrati
    → Data platform | Cross-domain architecture
 ```
 
----
+##
 
 ### **What I'm Shipping**
 
@@ -329,7 +400,7 @@ Chess Rating: 1000 ELO (climbing daily)
   <img alt="github-snake" src="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" width="100%" />
 </picture>
 
----
+##
 
 <div align="center">
 
