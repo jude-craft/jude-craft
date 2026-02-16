@@ -186,10 +186,10 @@ Web3         ███████████░░░░░░░░  55%
 
 | Project | Description | Tech Stack | Impact | Links |
 |---------|-------------|------------|--------|-------|
-| 🏠 **Unistay Housing** | AI-powered student housing recommendation with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Demo](https://github.com/kude-craft/house_recommendation_app) |
-| 👨‍💼 **ShopMate** | Sales tracking app for small businesses | Flutter • Firebase | 50+ businesses, 95% accuracy | [Download](https://github.com/jude-craft/ShopMate) |
-| 📊 **Rent Predictor** | ML model for housing rent prediction in Nairobi | Python • XGBoost • ML | 92% prediction accuracy | [Model](https://github.com/jude-craft/housing_recommendation) |
-| 🔮 **AfyaSmart** | AI-powered health assistant (Coming Q1 2026) | Flutter • FastAPI • OpenAI | In Development | `Private Repo` |
+| **Unistay Housing** | AI-powered student housing recommendation with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Demo](https://github.com/kude-craft/house_recommendation_app) |
+| **ShopMate** | Sales tracking app for small businesses | Flutter • Firebase | 50+ businesses, 95% accuracy | [Download](https://github.com/jude-craft/ShopMate) |
+| **Rent Predictor** | ML model for housing rent prediction in Nairobi | Python • XGBoost • ML | 92% prediction accuracy | [Model](https://github.com/jude-craft/housing_recommendation) |
+| **AfyaSmart** | AI-powered health assistant (Coming Q1 2026) | Flutter • FastAPI • OpenAI | In Development | `Private Repo` |
 
 </div>
 
@@ -201,7 +201,7 @@ Web3         ███████████░░░░░░░░  55%
 
 <div align="center">
 
-### 📊 The Year Ahead
+### The Year Ahead
 
 | Projects | Skills | Certs | Months |
 |:-----------:|:---------:|:--------:|:---------:|
@@ -261,13 +261,13 @@ at enterprise level
 <div align="center">
 
 ```yaml
-📱 Production Apps: 3
-💻 Lines of Code: 10,000+
-🔥 GitHub Commits: 800+
-🧩 Problems Solved: 10+  
-🤖 ML Models Trained: 4
-☕ Coffee Consumed: ∞
-♟️ Chess Rating: Improving Daily
+Production Apps: 3
+Lines of Code: 10,000+
+GitHub Commits: 800+
+Problems Solved: 10+  
+ML Models Trained: 4
+Coffee Consumed: ∞
+Chess Rating: Improving Daily
 ```
 
 </div>
