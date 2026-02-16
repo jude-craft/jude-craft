@@ -20,7 +20,7 @@
 </div>
 
 
-### 🚀 ABOUT ME
+### ABOUT ME
 <table>
 <tr>
 <td width="50%" valign="top" align="left">
@@ -51,16 +51,16 @@ class Developer {
 
 <div align="left">
 
-### 💫 What I'm Up To
+### What I'm Up To
 
-🎨 Building healthcare solutions with **Flutter & AI**  
-🔥 Exploring **Blockchain × AI × Mobile** possibilities  
-💼 Portfolio: [derrickjuma.netlify.app](https://derrickjuma.netlify.app)
+ - Building healthcare solutions with **Flutter & AI**  
+ - Exploring **Blockchain × AI × Mobile** possibilities  
+ - Portfolio: [derrickjuma.netlify.app](https://derrickjuma.netlify.app)
 
-### 🤝 Let's Collaborate
+### Let's Collaborate
 
-✨ Open to **Flutter • AI/ML • Open Source** projects  
-♟️ Solving chess puzzles between `flutter run` commands  
+- Open to **Flutter • AI/ML • Open Source** projects  
+- Solving chess puzzles between `flutter run` commands  
 
 </div>
 </td>
@@ -73,10 +73,10 @@ class Developer {
 
 
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <details open>
-<summary><b>💻 Click to explore my tech stack</b></summary>
+<summary><b>Click to explore my tech stack</b></summary>
 
 <br/>
 
@@ -105,7 +105,7 @@ class Developer {
 
 <br/>
 
-### 📊 Proficiency Levels
+### Proficiency Levels
 
 <table>
 <tr>
@@ -180,7 +180,7 @@ Web3         ███████████░░░░░░░░  55%
 
 ##
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -195,15 +195,15 @@ Web3         ███████████░░░░░░░░  55%
 
 
 
-## 🚀 2026: Building in Public
+## 2026: Building in Public
 
-> **Mission**: From mobile apps to smart contracts, shipping real-world solutions while stacking certifications.
+> **Mission**: Engineering intelligent, scalable applications—from mobile frontends to data-driven backend systems—while compounding skills and certifications.
 
 <div align="center">
 
 ### 📊 The Year Ahead
 
-| 📱 Projects | 🎯 Skills | ✅ Certs | 🔥 Months |
+| Projects | Skills | Certs | Months |
 |:-----------:|:---------:|:--------:|:---------:|
 | **5** Shipping | **5** Domains | **4** Planned | **12** Evolution |
 
@@ -211,7 +211,7 @@ Web3         ███████████░░░░░░░░  55%
 
 
 
-### 🎯 **2026 Sprint**
+### **2026 Sprint**
 
 ```
 Q1 ████████████░░░░░░░░  Foundation Layer
@@ -222,17 +222,13 @@ Q2 ░░░░░░░░░░░░████████░░  Mobile & 
    → Flutter mastery | APK v2.0 & v3.0 | ETL pipelines
    ✓ Senior Flutter Developer | Data Engineer
 
-Q3 ░░░░░░░░░░░░░░░░░░████  Blockchain Era
-   → Smart contracts | DeFi protocol | Web3
-   ✓ Solidity Developer
-
-Q4 ░░░░░░░░░░░░░░░░░░░░░░  Integration & Scale
+Q3 ░░░░░░░░░░░░░░░░░░░░░░  Integration & Scale
    → Data platform | Cross-domain architecture
 ```
 
 ---
 
-### 🔨 **What I'm Shipping**
+### **What I'm Shipping**
 
 <table>
 <tr>
@@ -245,17 +241,6 @@ v1.0 → v2.0 → v3.0
 Three apps, three iterations,  
 infinite lessons learned
 
-</td>
-<td width="33%" valign="top">
-
-**⛓️ DeFi Protocol**
-```
-Testnet → Audit → Mainnet
-```
-Smart contracts meet  
-real-world finance
-
-</td>
 <td width="33%" valign="top">
 
 **🔄 Data Pipeline**
@@ -269,31 +254,6 @@ at enterprise level
 </tr>
 </table>
 
----
-
-<div align="center">
-
-### 💡 **Current Status**
-
-```javascript
-const status = {
-  building: "Spring Boot Backend + APK #1",
-  learning: "AWS Architecture + Microservices",
-  progress: "25% through Q1",
-  vibe: "🔥 Shipping daily"
-};
-```
-
-**Follow the journey** → Wins, fails, and everything between
-
-
-</div>
-
----
-
-**Legend**: `█` Completed | `░` Upcoming | `✓` Certification Earned | `→` Focus Areas
-
----
 
 
 ## 📈 Impact Metrics
@@ -303,75 +263,65 @@ const status = {
 ```yaml
 📱 Production Apps: 3
 💻 Lines of Code: 10,000+
-🔥 GitHub Commits: 500+
-🧩 Problems Solved: 10+
+🔥 GitHub Commits: 800+
+🧩 Problems Solved: 10+  
 🤖 ML Models Trained: 4
 ☕ Coffee Consumed: ∞
 ♟️ Chess Rating: Improving Daily
 ```
 
-### Performance Achievements
-
-| Category | Achievement | Details |
-|:--------:|:-----------:|:-------:|
-| 🚀 **App Performance** | 40% faster | Startup time optimization |
-| 💾 **Memory Usage** | 60% reduction | Resource efficiency |
-| 🎯 **Crash-Free Sessions** | 95%+ | Rock-solid stability |
-| ⭐ **User Rating** | 4.6+ | Average across all apps |
-| 🤖 **AI Accuracy** | 89% | Recommendation precision |
-
 </div>
 
 ##
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
-
+<p align="center">
   <a href="https://derrickjuma.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-3B82F6?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/derrick-juma-840529311/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:derekjude254@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/jude_dev">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-
-  <br />
+</p>
 
   <h3>I'm always open to:</h3>
   
-  🤖 **AI & Data Science** collaborations  
-  📱 **Mobile** app development  
-  🌍 **Open Source** contributions  
-  ☕ **Tech chats** & virtual coffee  
+  ```yaml
+  🤖 AI & Data Science collaborations  
+  📱 Mobile app development  
+  🌍 Open Source contributions  
+  ☕ Tech chats & virtual coffee  
+  ```
 
 </div>
 
 ##
 
-## 💡 Fun Facts
+## Fun Facts
 
 <div align="center">
 
 ```yaml
-☕ Coffee Dependency: High
-🎮 Current Chess ELO: 1000 (and climbing)
-🎵 Coding Playlist: Lo-fi + Deep Focus
-🌙 Peak Productivity: 12 AM - 5 AM
-📚 Currently Reading: "Clean Architecture" by Uncle Bob
-🎯 2026 Goal: Ship 5 production apps, contribute to 10 OSS projects
+Coffee Level: Critical (High Dependency)
+Coding Soundtrack: Lo-fi Beats + Deep Focus
+Peak Hours: 12 AM - 5 AM (Night Owl Mode)
+Currently Reading: "Psychology of Money"
+Chess Rating: 1000 ELO (climbing daily)
 ```
 
 </div>
 
 ##
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" />
@@ -383,7 +333,7 @@ const status = {
 
 <div align="center">
 
-### 💭 Quote of the Day
+### Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="600" />
 
@@ -397,7 +347,7 @@ const status = {
 
 <br/>
 
-### 💭 Developer Wisdom
+### Developer Wisdom
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=900&lines=First+solve+the+problem+then+write+the+code;Code+is+like+humor+when+you+explain+it+its+bad;The+best+error+message+is+the+one+that+never+shows+up;Simplicity+is+the+ultimate+sophistication;Make+it+work+make+it+right+make+it+fast" alt="Dev Quotes" />
 
