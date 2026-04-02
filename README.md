@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=180&section=header&text=Derick%20Juma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header" />
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Mobile+Developer;Blockchain+Specialist;Flutter+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Mobile+Developer;Flutter+Expert" alt="Typing SVG" />
 </h3>
 
 <br/>
