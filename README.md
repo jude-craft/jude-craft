@@ -359,9 +359,6 @@ Chess Rating: Improving Daily
   <a href="mailto:derekjude254@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/jude_dev">
-    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
 </p>
 
   <h3>I'm always open to:</h3>
@@ -428,14 +425,12 @@ Chess Rating: 1000 ELO (climbing daily)
 <p>
   <img src="https://img.shields.io/badge/⭐_Star-My_Repos-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Star Badge" />
 </p>
-
-<p>
-  <i>Built with 💙 by <a href="https://github.com/jude-craft">Derick Juma</a></i>
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=jude-craft&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
 </p>
 
 <br/>
 
 <!-- Footer Stats -->
-<img src="https://komarev.com/ghpvc/?username=jude-craft&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
 
 </div>
