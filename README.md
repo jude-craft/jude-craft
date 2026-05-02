@@ -243,7 +243,7 @@ Web3         ███████████░░░░░░░░  55%
 
 ##
 
-## 🏆 **ACHIEVEMENTS & TROPHIES**
+## **ACHIEVEMENTS & TROPHIES**
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=jude-craft&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
@@ -334,7 +334,7 @@ at enterprise level
 ```yaml
 Production Apps: 3
 Lines of Code: 10,000+
-GitHub Commits: 800+
+GitHub Commits: 1000+
 Problems Solved: 10+  
 ML Models Trained: 4
 Coffee Consumed: ∞
