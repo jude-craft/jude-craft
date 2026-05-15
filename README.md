@@ -314,7 +314,7 @@ infinite lessons learned
 
 <td width="33%" valign="top">
 
-**🔄 Data Pipeline**
+**Data Pipeline**
 ```
 ETL → Cloud → Scale
 ```
