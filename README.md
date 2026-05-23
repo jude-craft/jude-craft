@@ -56,7 +56,7 @@ class Developer {
 
  - Building healthcare solutions with **Flutter & AI**  
  - Exploring **Blockchain × AI × Mobile** possibilities  
- - Portfolio: [derrickjuma.netlify.app](https://derrickjuma.netlify.app)
+ - Portfolio: [Derick Juma](https://jumaderick.vercel.app)
 
 ### Let's Collaborate
 
