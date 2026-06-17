@@ -1,25 +1,21 @@
 <div align="center">
 
-<!-- Ocean Blue Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=180&section=header&text=Derick%20Juma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header" />
-
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Mobile+Developer;Flutter+Expert" alt="Typing SVG" />
-</h3>
-
-<br/>
-
-<!-- Specializations -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-3B82F6?style=for-the-badge" alt="Software Engineer" />
-  <img src="https://img.shields.io/badge/Mobile_Dev-02569B?style=for-the-badge" alt="Mobile Dev" />
-  <img src="https://img.shields.io/badge/Aspiring_Data_Engineer-06B6D4?style=for-the-badge" alt="Data Engineer" />
-</p>
-
-<br/>
-
+<!-- Premium Dark Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,30:1e1b4b,70:312e81,100:4338ca&height=200&section=header&text=Derick%20Juma&fontSize=52&fontColor=e0e7ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20%7C%20AI%2FML&descSize=18&descAlignY=58&descColor=a5b4fc" width="100%" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+```
+◈  Mobile Dev  ·  AI/ML Builder  ·  Aspiring Data Engineer  ◈
+```
+
+</div>
+
+<br/>
 
 
 ### ABOUT ME
@@ -228,18 +224,19 @@ Web3         ███████████░░░░░░░░  55%
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jude-craft&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jude-craft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&icon_color=818cf8&text_color=c7d2fe&ring_color=6366f1&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=c7d2fe" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jude-craft&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  <img width="96%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jude-craft&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818cf8&currStreakNum=e0e7ff&sideNums=e0e7ff&currStreakLabel=818cf8&sideLabels=c7d2fe&dates=c7d2fe" />
 </div>
 
 <div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=github-compact" alt="Contribution Graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution+Graph&bg_color=0D1117&color=818cf8&line=6366f1&point=e0e7ff&area=true&hide_border=true" />
 </div>
+
+<br/>
 
 ##
 
@@ -361,17 +358,6 @@ Chess Rating: Improving Daily
   </a>
 </p>
 
-  <h3>I'm always open to:</h3>
-  
-  ```yaml
-  🤖 AI & Data Science collaborations  
-  📱 Mobile app development  
-  🌍 Open Source contributions  
-  ☕ Tech chats & virtual coffee  
-  ```
-
-</div>
-
 ##
 
 ## Fun Facts
@@ -410,8 +396,6 @@ Chess Rating: 1000 ELO (climbing daily)
 
 <div align="center">
 
-<!-- Ocean Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=120&section=footer" width="100%" />
 
 <br/>
 
