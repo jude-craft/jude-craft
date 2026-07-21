@@ -10,7 +10,7 @@
 <div align="center">
 
 ```
-◈  Mobile Dev  ·  AI/ML Builder  ·  Aspiring Data Engineer  ◈
+◈  Mobile Dev  ·  Aspiring Data Engineer  ◈
 ```
 
 </div>
@@ -50,14 +50,13 @@ class Developer {
 
 ### What I'm Up To
 
- - Building healthcare solutions with **Flutter & AI**  
- - Exploring **Blockchain × AI × Mobile** possibilities  
+ - Transitioning From Mobile to Data Engineering  
+ - Exploring **Data Pipelines × ELT × Cloud**  
  - Portfolio: [Derick Juma](https://jumaderick.vercel.app)
 
 ### Let's Collaborate
 
-- Open to **Flutter • AI/ML • Open Source** projects  
-- Solving chess puzzles between `flutter run` commands  
+- Open to **SQL • Data Engineering • Open Source** projects  
 
 </div>
 </td>
