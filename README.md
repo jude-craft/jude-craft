@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Dark Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,30:1e1b4b,70:312e81,100:4338ca&height=200&section=header&text=Derick%20Juma&fontSize=52&fontColor=e0e7ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20%7C%20AI%2FML&descSize=18&descAlignY=58&descColor=a5b4fc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042F2E,30:0F766E,70:0D9488,100:14B8A6&height=200&section=header&text=Derick%20Juma&fontSize=52&fontColor=E0F2F1&animation=fadeIn&descAlignY=58&descColor=99F6E4" width="100%" />
 
 </div>
 
@@ -16,7 +16,6 @@
 </div>
 
 <br/>
-
 
 ### ABOUT ME
 <table>
@@ -65,9 +64,6 @@ class Developer {
 </td>
 </tr>
 </table>
-
-
-
 
 ## Tech Stack
 
@@ -170,7 +166,6 @@ class Developer {
 
 ##
 
-
 ### Proficiency Levels
 
 <table>
@@ -209,23 +204,21 @@ REST APIs    ████████████████████  100%
 </tr>
 </table>
 
-</details>
-
 <br/>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jude-craft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&icon_color=818cf8&text_color=c7d2fe&ring_color=6366f1&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=c7d2fe" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jude-craft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=E0F2F1&ring_color=0D9488&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E0F2F1" />
 </div>
 
 <!-- <div align="center">
-  <img width="96%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jude-craft&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818cf8&currStreakNum=e0e7ff&sideNums=e0e7ff&currStreakLabel=818cf8&sideLabels=c7d2fe&dates=c7d2fe" />
+  <img width="96%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jude-craft&theme=tokyonight&hide_border=true&background=0D1117&ring=0D9488&fire=14B8A6&currStreakNum=E0F2F1&sideNums=E0F2F1&currStreakLabel=2DD4BF&sideLabels=99F6E4&dates=99F6E4" />
 </div> -->
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution+Graph&bg_color=0D1117&color=818cf8&line=6366f1&point=e0e7ff&area=true&hide_border=true" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution+Graph&bg_color=0D1117&color=2DD4BF&line=14B8A6&point=E0F2F1&area=true&hide_border=true" />
 </div>
 
 <br/>
@@ -240,6 +233,20 @@ REST APIs    ████████████████████  100%
 
 ##
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+##
+
 ## Featured Projects
 
 <div align="center">
@@ -249,11 +256,8 @@ REST APIs    ████████████████████  100%
 | **Unistay Housing** | AI-powered student housing recommendation with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Demo](https://github.com/kude-craft/house_recommendation_app) |
 | **ShopMate** | Sales tracking app for small businesses | Flutter • Firebase | 50+ businesses, 95% accuracy | [Download](https://github.com/jude-craft/ShopMate) |
 | **Rent Predictor** | ML model for housing rent prediction in Nairobi | Python • XGBoost • ML | 92% prediction accuracy | [Model](https://github.com/jude-craft/housing_recommendation) |
-| **AfyaSmart** | AI-powered health assistant (Coming Q1 2026) | Flutter • FastAPI • OpenAI | In Development | `Private Repo` |
 
 </div>
-
-
 
 ## 2026: Building in Public
 
@@ -268,8 +272,6 @@ REST APIs    ████████████████████  100%
 | **5** Shipping | **5** Domains | **4** Planned | **12** Evolution |
 
 </div>
-
-
 
 ### **2026 Sprint**
 
@@ -292,7 +294,7 @@ Q3 ░░░░░░░░░░░░░░░░░░░░░░  Integrati
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **📱 APK Trilogy**
 ```
@@ -301,7 +303,8 @@ v1.0 → v2.0 → v3.0
 Three apps, three iterations,  
 infinite lessons learned
 
-<td width="33%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **Data Pipeline**
 ```
@@ -313,44 +316,6 @@ at enterprise level
 </td>
 </tr>
 </table>
-
-
-
-## 📈 Impact Metrics
-
-<div align="center">
-
-```yaml
-Production Apps: 3
-Lines of Code: 10,000+
-GitHub Commits: 1000+
-Problems Solved: 10+  
-ML Models Trained: 4
-Coffee Consumed: ∞
-Chess Rating: Improving Daily
-```
-
-</div>
-
-##
-
-
-## Let's Connect
-
-<div align="center">
-<p align="center">
-  <a href="https://derrickjuma.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-3B82F6?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/derrick-juma-840529311/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:derekjude254@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-##
 
 ## Fun Facts
 
@@ -366,36 +331,35 @@ Chess Rating: 1000 ELO (climbing daily)
 
 </div>
 
-##
-##  Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jude-craft/jude-craft/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-##
-
 <div align="center">
 
 ### Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="600" />
 
+</div>
+
 ##
 
+## Let's Connect
 
 <div align="center">
 
+<a href="https://derrickjuma.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/derrick-juma-840529311/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:derekjude254@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<br/>
+</div>
 
-### Developer Wisdom
+##
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=900&lines=First+solve+the+problem+then+write+the+code;Code+is+like+humor+when+you+explain+it+its+bad;The+best+error+message+is+the+one+that+never+shows+up;Simplicity+is+the+ultimate+sophistication;Make+it+work+make+it+right+make+it+fast" alt="Dev Quotes" />
-
-<br/><br/>
+<div align="center">
 
 <!-- Call to Action -->
 <p>
