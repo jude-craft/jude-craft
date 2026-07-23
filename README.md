@@ -205,13 +205,6 @@ Docker       ██████████████░░░░░░  70%
 REST APIs    ████████████████████  100%
 ```
 
-**Blockchain & Web3**
-```
-Solidity     ██████████████░░░░░░  70%
-Smart Contracts ████████████░░░░  60%
-Web3         ███████████░░░░░░░░  55%
-```
-
 </td>
 </tr>
 </table>
@@ -227,9 +220,9 @@ Web3         ███████████░░░░░░░░  55%
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&text_color=c7d2fe" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="96%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jude-craft&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818cf8&currStreakNum=e0e7ff&sideNums=e0e7ff&currStreakLabel=818cf8&sideLabels=c7d2fe&dates=c7d2fe" />
-</div>
+</div> -->
 
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution+Graph&bg_color=0D1117&color=818cf8&line=6366f1&point=e0e7ff&area=true&hide_border=true" />
