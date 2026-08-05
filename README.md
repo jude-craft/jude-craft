@@ -9,8 +9,8 @@
 
 <div align="center">
 
-```
-◈  Mobile Dev  ·  Aspiring Data Engineer  ◈
+```text
+◈  Data Engineer  ·  Software Developer  ◈
 ```
 
 </div>
@@ -22,40 +22,40 @@
 <tr>
 <td width="50%" valign="top" align="left">
 
-```dart
-class Developer {
-  final String name = "Derick Juma";
-  final String role = "Software Engineer";
-  
-  List<String> currentStack = [
-    "Flutter & Dart",
-    "Kotlin & JPC",
-    "Python (AI/ML)",
-    "Firebase & Cloud",
-  ];
-  
-  List<String> exploring = [
-    "Advanced ML Architectures",
-    "Spring Boot for backend",
-    "Serverless & Edge Computing",
-  ];
-  
-  String motto = "Code with purpose,"
-                 "ship with confidence";
-}
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Derick Juma"
+        self.role = "Data Engineer"
+        
+        self.current_stack = [
+            "Python & SQL",
+            "ETL/ELT Pipelines",
+            "AWS & Cloud Ops",
+            "PostgreSQL & NoSQL"
+        ]
+        
+        self.exploring = [
+            "Apache Spark & Kafka",
+            "Airflow Orchestration",
+            "Data Warehousing Architectures"
+        ]
+        
+        self.motto = ("Engineer the data, "
+                      "build the future.")
 ```
 
 <div align="left">
 
 ### What I'm Up To
 
- - Transitioning From Mobile to Data Engineering  
- - Exploring **Data Pipelines × ELT × Cloud**  
+ - Architecting **Scalable Data Pipelines & ETL workflows**  
+ - Exploring **Big Data Tools × Cloud Architecture × Analytics**  
  - Portfolio: [Derick Juma](https://jumaderick.vercel.app)
 
 ### Let's Collaborate
 
-- Open to **SQL • Data Engineering • Open Source** projects  
+- Open to **Data Engineering • Cloud Infrastructure • Open Source** projects  
 
 </div>
 </td>
@@ -74,6 +74,22 @@ class Developer {
 <table>
 <tr>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+<br>Spring
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
 <br>Flutter
 </td>
@@ -86,29 +102,13 @@ class Developer {
 <br>Kotlin
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
 <br>Solidity
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-<br>Spring
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br>FastAPI
 </td>
 </tr>
 </table>
 
-### Cloud & DevOps
+### Cloud, Data & DevOps
 
 <table>
 <tr>
@@ -117,12 +117,12 @@ class Developer {
 <br>AWS
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -133,8 +133,8 @@ class Developer {
 <br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
 </td>
 </tr>
 </table>
@@ -172,32 +172,39 @@ class Developer {
 <tr>
 <td width="50%">
 
-**Mobile Development**
-```
-Flutter      ████████████████████░  95%
-Dart         ████████████████████░  95%
-Kotlin       ███████████████░░░░░  75%
-Android      ██████████████░░░░░░  70%
+**Data Engineering & Analytics**
+```text
+Python       ████████████████████  95%
+SQL          ███████████████████░  90%
+ETL/ELT      ████████████████░░░░  80%
+FastAPI      ██████████████████░░  90%
 ```
 
-**AI & Data Science**
-```
-Python       ███████████████████░  95%
-TensorFlow   ████████████████░░░░  80%
-FastAPI      ██████████████████░░  90%
-scikit-learn ███████████████░░░░░  75%
+**Mobile Development**
+```text
+Flutter      ████████████████████  95%
+Dart         ████████████████████  95%
+Kotlin       ███████████████░░░░░  75%
+Android      ██████████████░░░░░░  70%
 ```
 
 </td>
 <td width="50%">
 
 **Backend & Cloud**
+```text
+AWS / Cloud  ████████████████░░░░  80%
+PostgreSQL   ██████████████████░░  90%
+Docker       ███████████████░░░░░  75%
+REST APIs    ████████████████████ 100%
+Firebase     ████████████████████ 100%
 ```
-Firebase     ████████████████████  100%
-Spring Boot  ██████████████░░░░░░  70%
-PostgreSQL   ███████████████░░░░░  75%
-Docker       ██████████████░░░░░░  70%
-REST APIs    ████████████████████  100%
+
+**AI & Machine Learning**
+```text
+TensorFlow   ████████████████░░░░  80%
+scikit-learn ███████████████░░░░░  75%
+PyTorch      ██████████████░░░░░░  70%
 ```
 
 </td>
@@ -253,15 +260,15 @@ REST APIs    ████████████████████  100%
 
 | Project | Description | Tech Stack | Impact | Links |
 |---------|-------------|------------|--------|-------|
+| **Rent Predictor** | ML model for housing rent prediction in Nairobi | Python • XGBoost • ML | 92% prediction accuracy | [Model](https://github.com/jude-craft/housing_recommendation) |
 | **Unistay Housing** | AI-powered student housing recommendation with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Demo](https://github.com/kude-craft/house_recommendation_app) |
 | **ShopMate** | Sales tracking app for small businesses | Flutter • Firebase | 50+ businesses, 95% accuracy | [Download](https://github.com/jude-craft/ShopMate) |
-| **Rent Predictor** | ML model for housing rent prediction in Nairobi | Python • XGBoost • ML | 92% prediction accuracy | [Model](https://github.com/jude-craft/housing_recommendation) |
 
 </div>
 
 ## 2026: Building in Public
 
-> **Mission**: Engineering intelligent, scalable applications—from mobile frontends to data-driven backend systems—while compounding skills and certifications.
+> **Mission**: Architecting intelligent, scalable data platforms—from robust ETL pipelines to cloud-native analytics—while continuously compounding engineering skills.
 
 <div align="center">
 
@@ -275,17 +282,17 @@ REST APIs    ████████████████████  100%
 
 ### **2026 Sprint**
 
-```
-Q1 ████████████░░░░░░░░  Foundation Layer
-   → AWS fundamentals | APK v1.0 | Microservices
+```text
+Q1 ████████████░░░░░░░░  Data Foundations
+   → Advanced SQL | Python Automation | Data Modeling
    ✓ AWS Cloud Practitioner
 
-Q2 ░░░░░░░░░░░░████████░░  Mobile & Data  
-   → Flutter mastery | APK v2.0 & v3.0 | ETL pipelines
-   ✓ Senior Flutter Developer | Data Engineer
+Q2 ░░░░░░░░░░░░████████░░  Pipeline Orchestration  
+   → Airflow | Spark | Cloud Data Warehouses
+   ✓ AWS Certified Data Engineer
 
-Q3 ░░░░░░░░░░░░░░░░░░░░░░  Integration & Scale
-   → Data platform | Cross-domain architecture
+Q3 ░░░░░░░░░░░░░░░░░░░░░░  Scale & AI Integration
+   → Real-time Streaming | MLOps Integration | Big Data
 ```
 
 ##
@@ -296,22 +303,22 @@ Q3 ░░░░░░░░░░░░░░░░░░░░░░  Integrati
 <tr>
 <td width="50%" valign="top">
 
-**📱 APK Trilogy**
+**📊 Data Platforms**
+```text
+ETL → Orchestration → Analytics
 ```
-v1.0 → v2.0 → v3.0
-```
-Three apps, three iterations,  
-infinite lessons learned
+Engineering data at enterprise scale, 
+transforming raw datasets into actionable insights.
 
 </td>
 <td width="50%" valign="top">
 
-**Data Pipeline**
+**📱 Hybrid Engineering**
+```text
+Flutter → FastAPI → Cloud
 ```
-ETL → Cloud → Scale
-```
-Engineering data  
-at enterprise level
+Leveraging mobile roots to maintain full-cycle 
+capability from UI to backend logic.
 
 </td>
 </tr>
