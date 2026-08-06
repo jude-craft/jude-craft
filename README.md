@@ -10,7 +10,7 @@
 <div align="center">
 
 ```text
-◈  Data Engineer  ·  ETL / Cloud / Analytics  ◈
+◈  Data Engineering • Cloud Data Platforms • Analytics Engineering  ◈
 ```
 
 </div>
@@ -31,9 +31,10 @@ class Developer:
         self.current_stack = [
             "Python & SQL",
             "ETL/ELT Pipelines",
-            "Apache Airflow",
-            "AWS & Cloud Data Platforms",
-            "PostgreSQL & Data Modeling"
+            "Kestra Workflow Orchestration",
+            "Google Cloud Platform (GCP)",
+            "BigQuery & PostgreSQL"
+            "Docker & Terraform"
         ]
 
         self.foundation = [
