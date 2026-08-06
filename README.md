@@ -241,11 +241,9 @@ class Developer:
 ```text
 Q1 ████████████░░░░░░░░  Data Foundations
    → Advanced SQL | Python Automation | Data Modeling
-   ✓ AWS Cloud Practitioner
 
 Q2 ░░░░░░░░░░░░████████░░  Pipeline Orchestration
    → Airflow | Spark | Cloud Data Warehouses
-   ✓ AWS Certified Data Engineer
 
 Q3 ░░░░░░░░░░░░░░░░░░░░░░  Scale & AI Integration
    → Real-time Streaming | MLOps Integration | Big Data
@@ -301,23 +299,7 @@ Chess Rating: 1000 ELO (climbing daily)
 
 </div>
 
-##
 
-## Let's Connect
-
-<div align="center">
-
-<a href="https://jumaderick.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/derrick-juma-840529311/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:derekjude254@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
 
 ##
 
