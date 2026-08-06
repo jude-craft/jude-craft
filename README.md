@@ -10,7 +10,7 @@
 <div align="center">
 
 ```text
-◈  Data Engineer  ·  Software Developer  ◈
+◈  Data Engineer  ·  ETL / Cloud / Analytics  ◈
 ```
 
 </div>
@@ -26,21 +26,22 @@
 class Developer:
     def __init__(self):
         self.name = "Derick Juma"
-        self.role = "Data Engineer"
-        
+        self.role = "Data Engineer (in training)"
+
         self.current_stack = [
             "Python & SQL",
             "ETL/ELT Pipelines",
-            "AWS & Cloud Ops",
-            "PostgreSQL & NoSQL"
+            "Apache Airflow",
+            "AWS & Cloud Data Platforms",
+            "PostgreSQL & Data Modeling"
         ]
-        
-        self.exploring = [
-            "Apache Spark & Kafka",
-            "Airflow Orchestration",
-            "Data Warehousing Architectures"
+
+        self.foundation = [
+            "Flutter & Kotlin (Mobile Dev)",
+            "Built apps that generate the data",
+            "  I now pipeline & analyze"
         ]
-        
+
         self.motto = ("Engineer the data, "
                       "build the future.")
 ```
@@ -49,13 +50,14 @@ class Developer:
 
 ### What I'm Up To
 
- - Architecting **Scalable Data Pipelines & ETL workflows**  
- - Exploring **Big Data Tools × Cloud Architecture × Analytics**  
+ - Building **ETL/ELT pipelines & cloud data platforms**
+ - Learning in public with **Data Talks Club** and hands-on projects
+ - Working toward: **Junior Data Engineer role / internship**
  - Portfolio: [Derick Juma](https://jumaderick.vercel.app)
 
 ### Let's Collaborate
 
-- Open to **Data Engineering • Cloud Infrastructure • Open Source** projects  
+- Open to **Data Engineering • Cloud Infrastructure • Open Source** projects
 
 </div>
 </td>
@@ -69,7 +71,7 @@ class Developer:
 
 <div align="center">
 
-### Languages & Frameworks
+### Data Engineering & Cloud
 
 <table>
 <tr>
@@ -78,17 +80,59 @@ class Developer:
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br>FastAPI
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="SQL / PostgreSQL" />
+<br>SQL
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-<br>Spring
+<img src="https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=0D1117" height="48" alt="Airflow" />
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
+<img src="https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=0D1117" height="48" alt="Spark" />
 </td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0D1117" height="48" alt="Kafka" />
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&labelColor=0D1117" height="48" alt="dbt" />
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+</tr>
+</table>
+
+### Databases & Warehousing
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white&labelColor=0D1117" height="48" alt="BigQuery" />
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=0D1117" height="48" alt="Snowflake" />
+</td>
+</tr>
+</table>
+
+### Foundations — Software & Mobile Development
+
+*The years spent shipping mobile apps taught me how data actually gets generated at the source — which is exactly what I now pipeline and model.*
+
+<table>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
 <br>Flutter
@@ -102,27 +146,12 @@ class Developer:
 <br>Kotlin
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-<br>Solidity
-</td>
-</tr>
-</table>
-
-### Cloud, Data & DevOps
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -133,83 +162,14 @@ class Developer:
 <br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-</tr>
-</table>
-
-### Databases & AI/ML
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-<br>PyTorch
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
 </td>
 </tr>
 </table>
 
 </div>
 
-##
-
-### Proficiency Levels
-
-<table>
-<tr>
-<td width="50%">
-
-**Data Engineering & Analytics**
-```text
-Python       ████████████████████  95%
-SQL          ███████████████████░  90%
-ETL/ELT      ████████████████░░░░  80%
-FastAPI      ██████████████████░░  90%
-```
-
-**Mobile Development**
-```text
-Flutter      ████████████████████  95%
-Dart         ████████████████████  95%
-Kotlin       ███████████████░░░░░  75%
-Android      ██████████████░░░░░░  70%
-```
-
-</td>
-<td width="50%">
-
-**Backend & Cloud**
-```text
-AWS / Cloud  ████████████████░░░░  80%
-PostgreSQL   ██████████████████░░  90%
-Docker       ███████████████░░░░░  75%
-REST APIs    ████████████████████ 100%
-Firebase     ████████████████████ 100%
-```
-
-**AI & Machine Learning**
-```text
-TensorFlow   ████████████████░░░░  80%
-scikit-learn ███████████████░░░░░  75%
-PyTorch      ██████████████░░░░░░  70%
-```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -219,10 +179,6 @@ PyTorch      ██████████████░░░░░░  70%
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jude-craft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=E0F2F1&ring_color=0D9488&count_private=true" />
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E0F2F1" />
 </div>
-
-<!-- <div align="center">
-  <img width="96%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jude-craft&theme=tokyonight&hide_border=true&background=0D1117&ring=0D9488&fire=14B8A6&currStreakNum=E0F2F1&sideNums=E0F2F1&currStreakLabel=2DD4BF&sideLabels=99F6E4&dates=99F6E4" />
-</div> -->
 
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution+Graph&bg_color=0D1117&color=2DD4BF&line=14B8A6&point=E0F2F1&area=true&hide_border=true" />
@@ -258,11 +214,11 @@ PyTorch      ██████████████░░░░░░  70%
 
 <div align="center">
 
-| Project | Description | Tech Stack | Impact | Links |
-|---------|-------------|------------|--------|-------|
-| **Rent Predictor** | ML model for housing rent prediction in Nairobi | Python • XGBoost • ML | 92% prediction accuracy | [Model](https://github.com/jude-craft/housing_recommendation) |
-| **Unistay Housing** | AI-powered student housing recommendation with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Demo](https://github.com/kude-craft/house_recommendation_app) |
-| **ShopMate** | Sales tracking app for small businesses | Flutter • Firebase | 50+ businesses, 95% accuracy | [Download](https://github.com/jude-craft/ShopMate) |
+| Project | Data Engineering Angle | Tech Stack | Impact | Links |
+|---------|------------------------|------------|--------|-------|
+| **Rent Predictor** | End-to-end pipeline: ingestion → cleaning → feature engineering → model | Python • Pandas • XGBoost | 92% prediction accuracy | [Repo](https://github.com/jude-craft/housing_recommendation) |
+| **Unistay Housing** | Structured data pipeline feeding a recommendation engine with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Repo](https://github.com/jude-craft/house_recommendation_app) |
+
 
 </div>
 
@@ -287,7 +243,7 @@ Q1 ████████████░░░░░░░░  Data Foundation
    → Advanced SQL | Python Automation | Data Modeling
    ✓ AWS Cloud Practitioner
 
-Q2 ░░░░░░░░░░░░████████░░  Pipeline Orchestration  
+Q2 ░░░░░░░░░░░░████████░░  Pipeline Orchestration
    → Airflow | Spark | Cloud Data Warehouses
    ✓ AWS Certified Data Engineer
 
@@ -307,7 +263,7 @@ Q3 ░░░░░░░░░░░░░░░░░░░░░░  Scale & A
 ```text
 ETL → Orchestration → Analytics
 ```
-Engineering data at enterprise scale, 
+Engineering data at enterprise scale,
 transforming raw datasets into actionable insights.
 
 </td>
@@ -315,10 +271,10 @@ transforming raw datasets into actionable insights.
 
 **📱 Hybrid Engineering**
 ```text
-Flutter → FastAPI → Cloud
+Mobile Roots → Data at the Source → Cloud
 ```
-Leveraging mobile roots to maintain full-cycle 
-capability from UI to backend logic.
+Leveraging mobile development experience to understand
+how data is generated, then pipelining and modeling it.
 
 </td>
 </tr>
@@ -331,7 +287,6 @@ capability from UI to backend logic.
 ```yaml
 Coffee Level: Critical (High Dependency)
 Coding Soundtrack: Lo-fi Beats + Deep Focus
-Peak Hours: 12 AM - 5 AM (Night Owl Mode)
 Currently Reading: "Psychology of Money"
 Chess Rating: 1000 ELO (climbing daily)
 ```
@@ -352,8 +307,8 @@ Chess Rating: 1000 ELO (climbing daily)
 
 <div align="center">
 
-<a href="https://derrickjuma.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+<a href="https://jumaderick.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/derrick-juma-840529311/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -372,12 +327,10 @@ Chess Rating: 1000 ELO (climbing daily)
 <p>
   <img src="https://img.shields.io/badge/⭐_Star-My_Repos-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Star Badge" />
 </p>
-<p> 
+<p>
   <img src="https://komarev.com/ghpvc/?username=jude-craft&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
 </p>
 
 <br/>
-
-<!-- Footer Stats -->
 
 </div>
