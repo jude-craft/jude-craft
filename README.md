@@ -296,7 +296,7 @@ Chess Rating: 1000 ELO (climbing daily)
 
 ### Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="600" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20is%20the%20new%20oil%2C%20but%20like%20oil%2C%20it%20must%20be%20refined%20to%20be%20useful.&author=Clive%20Humby" width="600" />
 
 </div>
 
