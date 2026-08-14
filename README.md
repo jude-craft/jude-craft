@@ -177,8 +177,8 @@ class Developer:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jude-craft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=E0F2F1&ring_color=0D9488&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E0F2F1" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=jude-craft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=E0F2F1&ring_color=0D9488&count_private=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jude-craft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E0F2F1" />
 </div>
 
 <div align="center">
