@@ -182,7 +182,7 @@ class Developer:
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jude-craft&custom_title=Contribution+Graph&bg_color=0D1117&color=2DD4BF&line=14B8A6&point=E0F2F1&area=true&hide_border=true" />
+<img width="96%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=jude-craft&custom_title=Contribution+Graph&bg_color=0D1117&color=2DD4BF&line=14B8A6&point=E0F2F1&area=true&hide_border=true" />
 </div>
 
 <br/>
