@@ -26,14 +26,14 @@
 class Developer:
     def __init__(self):
         self.name = "Derick Juma"
-        self.role = "Data Engineer (in training)"
+        self.role = "Data Engineer"
 
         self.current_stack = [
             "Python & SQL",
             "ETL/ELT Pipelines",
-            "Kestra Workflow Orchestration",
-            "Google Cloud Platform (GCP)",
-            "BigQuery & PostgreSQL"
+            "Airfloe Workflow Orchestration",
+            "Google Cloud Platform (GCP), AWS",
+            "BigQuery, Redshift & PostgreSQL"
             "Docker & Terraform"
         ]
 
@@ -209,19 +209,7 @@ class Developer:
 
 </div>
 
-##
 
-## Featured Projects
-
-<div align="center">
-
-| Project | Data Engineering Angle | Tech Stack | Impact | Links |
-|---------|------------------------|------------|--------|-------|
-| **Rent Predictor** | End-to-end pipeline: ingestion → cleaning → feature engineering → model | Python • Pandas • XGBoost | 92% prediction accuracy | [Repo](https://github.com/jude-craft/housing_recommendation) |
-| **Unistay Housing** | Structured data pipeline feeding a recommendation engine with smart filtering | Flutter • FastAPI • ML | 500+ users, 89% accuracy | [Repo](https://github.com/jude-craft/house_recommendation_app) |
-
-
-</div>
 
 ## 2026: Building in Public
 
