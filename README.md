@@ -31,7 +31,7 @@ class Developer:
         self.current_stack = [
             "Python & SQL",
             "ETL/ELT Pipelines",
-            "Airfloe Workflow Orchestration",
+            "Airflow Workflow Orchestration",
             "Google Cloud Platform (GCP), AWS",
             "BigQuery, Redshift & PostgreSQL"
             "Docker & Terraform"
